@@ -1,0 +1,27 @@
+import TwoBlack
+#print axioms TwoBlack.corridor
+#print axioms TwoBlack.corridor_succ
+#print axioms TwoBlack.corridor_family
+#print axioms TwoBlack.check1_sound
+#print axioms TwoBlack.descent
+#print axioms TwoBlack.check0_sound
+#print axioms TwoBlack.level1_families_reach
+#print axioms TwoBlack.one_black
+#print axioms TwoBlack.two_black_of
+#print axioms TwoBlack.channelParentsOK_of
+#print axioms TwoBlack.concreteParentsOK
+#print axioms TwoBlack.two_black
+#print axioms TwoBlack.two_black'
+#print axioms TwoBlack.perp_succ
+#print axioms TwoBlack.perp_family
+#print axioms TwoBlack.check2p_sound
+#print axioms TwoBlack.two_black''
+#print axioms TwoBlack.par_succ
+#print axioms TwoBlack.par_family
+#print axioms TwoBlack.check2par_sound
+#print axioms TwoBlack.two_black_final
+#print axioms TwoBlack.unroll
+#print axioms TwoBlack.step_chain
+#print axioms TwoBlack.checkPart_sound
+#print axioms TwoBlack.hpart_proved
+#print axioms TwoBlack.theoremA

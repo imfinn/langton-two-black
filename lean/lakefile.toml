@@ -1,0 +1,7 @@
+name = "two-black"
+version = "0.1.0"
+defaultTargets = ["TwoBlack"]
+
+[[lean_lib]]
+name = "TwoBlack"
+precompileModules = true
