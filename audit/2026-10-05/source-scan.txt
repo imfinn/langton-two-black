@@ -1,0 +1,69 @@
+./TwoBlack/PerpData.lean:298:theorem perp_covered : perpCovered chanTable perpTable = true := by native_decide
+./TwoBlack/Level1.lean:12:theorem level1_checks : level1Families.all (fun p => check1 p.1 p.2) = true := by native_decide
+./TwoBlack/PartData.lean:48:theorem part_checks : level1Families.all (fun p => partOK p.1) = true := by native_decide
+./TwoBlack/Final.lean:12:theorem cover_ok : coverLoop parentTable (FState.init []) {} 0 blankT2 = true := by native_decide
+./TwoBlack/ParData.lean:232:theorem par_covered : parCovered chanTable parTable = true := by native_decide
+./TwoBlack/PartMut.lean:21:theorem ok0 : runWith F0 id = true := by native_decide
+./TwoBlack/PartMut.lean:22:theorem drop_first : runWith F0 (dropAt 0) = false := by native_decide
+./TwoBlack/PartMut.lean:23:theorem drop_middle : runWith F0 (dropAt 500) = false := by native_decide
+./TwoBlack/PartMut.lean:24:theorem drop_tail : runWith F0 (fun ks => ks.take (ks.length - 1)) = false := by native_decide
+./TwoBlack/PartMut.lean:25:theorem ok19 : runWith F19 id = true := by native_decide
+./TwoBlack/PartMut.lean:26:theorem drop_split : runWith F19 (fun ks => ks.filter (fun c => c.2 != [10, 30])) = false := by native_decide
+./TwoBlack/PartMut.lean:27:theorem drop_fixed : runWith F19 (dropAt 0) = false := by native_decide
+./TwoBlack/PartMut.lean:30:    | none => false) = false := by native_decide
+./TwoBlack/Chan/Data2.lean:1855:theorem chan2_ok : chan2.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data18.lean:2752:theorem chan18_ok : chan18.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data1.lean:1136:theorem chan1_ok : chan1.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data8.lean:1629:theorem chan8_ok : chan8.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data11.lean:1965:theorem chan11_ok : chan11.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/OneBlack.lean:17:theorem blank_check : check0 [] blankHint level1Families = true := by native_decide
+./TwoBlack/OneBlack.lean:28:theorem blank_reaches : ReachesP104 (initState []) := certB_sound [] 200 (by native_decide)
+./TwoBlack/Chan/Data4.lean:1920:theorem chan4_ok : chan4.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data10.lean:1466:theorem chan10_ok : chan10.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data20.lean:1584:theorem chan20_ok : chan20.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data6.lean:2180:theorem chan6_ok : chan6.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data21.lean:1099:theorem chan21_ok : chan21.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data13.lean:1461:theorem chan13_ok : chan13.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data7.lean:1973:theorem chan7_ok : chan7.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data12.lean:1951:theorem chan12_ok : chan12.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data14.lean:1367:theorem chan14_ok : chan14.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data16.lean:1995:theorem chan16_ok : chan16.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk23.lean:86:theorem chunk23_ok : chunk23.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk29.lean:86:theorem chunk29_ok : chunk29.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data0.lean:1094:theorem chan0_ok : chan0.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk0.lean:86:theorem chunk0_ok : chunk0.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk1.lean:86:theorem chunk1_ok : chunk1.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data15.lean:4206:theorem chan15_ok : chan15.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk9.lean:86:theorem chunk9_ok : chunk9.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk22.lean:86:theorem chunk22_ok : chunk22.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk14.lean:86:theorem chunk14_ok : chunk14.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk11.lean:86:theorem chunk11_ok : chunk11.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data17.lean:2197:theorem chan17_ok : chan17.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk18.lean:86:theorem chunk18_ok : chunk18.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk15.lean:86:theorem chunk15_ok : chunk15.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk16.lean:86:theorem chunk16_ok : chunk16.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk5.lean:86:theorem chunk5_ok : chunk5.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk13.lean:86:theorem chunk13_ok : chunk13.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk25.lean:86:theorem chunk25_ok : chunk25.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data9.lean:1441:theorem chan9_ok : chan9.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Chan/Data19.lean:6985:theorem chan19_ok : chan19.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk8.lean:86:theorem chunk8_ok : chunk8.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk26.lean:86:theorem chunk26_ok : chunk26.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data5.lean:2758:theorem chan5_ok : chan5.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk20.lean:86:theorem chunk20_ok : chunk20.all PEntry.ok = true := by native_decide
+./TwoBlack/Chan/Data3.lean:1156:theorem chan3_ok : chan3.kids1.all Kid1.ok = true := by native_decide
+./TwoBlack/Parents/Chunk7.lean:86:theorem chunk7_ok : chunk7.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk27.lean:86:theorem chunk27_ok : chunk27.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk28.lean:86:theorem chunk28_ok : chunk28.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk21.lean:86:theorem chunk21_ok : chunk21.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk19.lean:86:theorem chunk19_ok : chunk19.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk17.lean:86:theorem chunk17_ok : chunk17.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk4.lean:86:theorem chunk4_ok : chunk4.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk24.lean:86:theorem chunk24_ok : chunk24.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk2.lean:86:theorem chunk2_ok : chunk2.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk12.lean:86:theorem chunk12_ok : chunk12.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk31.lean:86:theorem chunk31_ok : chunk31.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk3.lean:86:theorem chunk3_ok : chunk3.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk6.lean:86:theorem chunk6_ok : chunk6.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk10.lean:86:theorem chunk10_ok : chunk10.all PEntry.ok = true := by native_decide
+./TwoBlack/Parents/Chunk30.lean:86:theorem chunk30_ok : chunk30.all PEntry.ok = true := by native_decide

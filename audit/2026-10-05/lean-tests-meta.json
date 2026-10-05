@@ -1,0 +1,40 @@
+[
+  {
+    "name": "core-mutations",
+    "command": [
+      "lake",
+      "env",
+      "lean",
+      "/tmp/langton-audit.xPW28y/CoreMutations.lean"
+    ],
+    "exit_code": 0,
+    "log": "core-mutations.log",
+    "note": "Executed successfully earlier in this same audit (session 97627); 15 examples.",
+    "examples": 15
+  },
+  {
+    "name": "original-PartMut",
+    "command": [
+      "lake",
+      "--no-cache",
+      "build",
+      "TwoBlack.PartMut"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 9.39,
+    "log": "part-mutations.log"
+  },
+  {
+    "name": "integration-mutations",
+    "command": [
+      "lake",
+      "env",
+      "lean",
+      "/tmp/langton-audit.xPW28y/IntegrationMutations.lean"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 15.88,
+    "examples": 12,
+    "log": "integration-mutations.log"
+  }
+]

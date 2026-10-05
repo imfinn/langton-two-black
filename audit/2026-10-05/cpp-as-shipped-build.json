@@ -1,0 +1,11 @@
+{
+  "command": [
+    "g++",
+    "-O2",
+    "-march=native",
+    "-o",
+    "/tmp/langton-audit.xPW28y/as-shipped-calc",
+    "/tmp/langton-audit.xPW28y/original/code/calculus.cpp"
+  ],
+  "exit_code": 1
+}

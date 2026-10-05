@@ -1,0 +1,15 @@
+{
+  "concrete_parent_order_same": true,
+  "parent_data_equal_ignoring_family_order": true,
+  "parent_count": 2432,
+  "perp": {
+    "generator_exit": 0,
+    "data_records_equal_ignoring_order": true,
+    "records": 286
+  },
+  "par": {
+    "generator_exit": 0,
+    "data_records_equal_ignoring_order": true,
+    "records": 220
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "started_utc": "2026-10-05T17:49:01Z",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "cwd": "/tmp/langton-audit.xPW28y/original/lean",
+  "command": [
+    "lake",
+    "build"
+  ],
+  "archive_sha256": "76d7165e470d298e95bdbefaf8c1f09e51615c931649ac8bf3441fad5e46e3f4",
+  "exit_code": 0,
+  "elapsed_seconds": 5452.71,
+  "finished_utc": "2026-10-05T19:19:54Z"
+}

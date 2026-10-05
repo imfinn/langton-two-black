@@ -1,0 +1,52 @@
+[
+  {
+    "command": [
+      "/tmp/langton-audit.xPW28y/calc",
+      "level1"
+    ],
+    "XVAL": true,
+    "exit_code": 0,
+    "elapsed_seconds": 0.898,
+    "matches_saved_dump": false
+  },
+  {
+    "command": [
+      "/tmp/langton-audit.xPW28y/calc",
+      "chandump"
+    ],
+    "XVAL": false,
+    "exit_code": 0,
+    "elapsed_seconds": 288.159,
+    "matches_saved_dump": false
+  },
+  {
+    "command": [
+      "/tmp/langton-audit.xPW28y/calc",
+      "perpdump"
+    ],
+    "XVAL": false,
+    "exit_code": 0,
+    "elapsed_seconds": 4.536,
+    "matches_saved_dump": false
+  },
+  {
+    "command": [
+      "/tmp/langton-audit.xPW28y/calc",
+      "pardump"
+    ],
+    "XVAL": false,
+    "exit_code": 0,
+    "elapsed_seconds": 20.7,
+    "matches_saved_dump": false
+  },
+  {
+    "command": [
+      "/tmp/langton-audit.xPW28y/calc",
+      "leandump"
+    ],
+    "XVAL": false,
+    "exit_code": 0,
+    "elapsed_seconds": 201.555,
+    "matches_saved_dump": false
+  }
+]

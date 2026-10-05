@@ -1,0 +1,127 @@
+ℹ [4/134] Replayed TwoBlack.Basic:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [7/134] Replayed TwoBlack.Coupling:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [10/134] Replayed TwoBlack.Highway:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [13/134] Replayed TwoBlack.Corridor:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [16/134] Replayed TwoBlack.Succ:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [19/134] Replayed TwoBlack.Family:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [22/134] Replayed TwoBlack.Check:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [25/134] Replayed TwoBlack.Level1Data:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [29/134] Replayed TwoBlack.Tail:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [32/134] Replayed TwoBlack.Level1:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [34/134] Replayed TwoBlack.Parent0:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [40/134] Replayed TwoBlack.Pose:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [46/134] Replayed TwoBlack.ParentTable:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [83/134] Replayed TwoBlack.Chan.Data0:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [85/134] Replayed TwoBlack.Chan.Data1:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [87/134] Replayed TwoBlack.Chan.Data2:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [89/134] Replayed TwoBlack.Chan.Data3:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [91/134] Replayed TwoBlack.Chan.Data4:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [93/134] Replayed TwoBlack.Chan.Data5:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [95/134] Replayed TwoBlack.Chan.Data6:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [97/134] Replayed TwoBlack.Chan.Data7:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [99/134] Replayed TwoBlack.Chan.Data8:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [101/134] Replayed TwoBlack.Chan.Data9:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [103/134] Replayed TwoBlack.Chan.Data10:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [105/134] Replayed TwoBlack.Chan.Data11:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [107/134] Replayed TwoBlack.Chan.Data12:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [109/134] Replayed TwoBlack.Chan.Data13:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [111/134] Replayed TwoBlack.Chan.Data14:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [113/134] Replayed TwoBlack.Chan.Data15:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [115/134] Replayed TwoBlack.Chan.Data16:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [117/134] Replayed TwoBlack.Chan.Data17:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [119/134] Replayed TwoBlack.Chan.Data18:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [121/134] Replayed TwoBlack.Chan.Data19:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [123/134] Replayed TwoBlack.Chan.Data20:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [125/134] Replayed TwoBlack.Chan.Data21:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+⚠ [126/134] Replayed TwoBlack.Chan.All
+warning: TwoBlack/Chan/All.lean:29:300: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [chanTable, List.all_cons, List.all_nil, chan0_ok, chan1_ok, chan2_ok, chan3_ok,
+  ̲  ̲ ̲ ̲chan4_ok, chan5_ok, chan6_ok, chan7_ok, chan8_ok, chan9_ok, chan10_ok, chan11_ok, chan12_ok,
+  ̲  ̲ ̲ ̲chan13_ok, chan14_ok, chan15_ok, chan16_ok, chan17_ok, chan18_ok, chan19_ok, chan20_ok,
+  ̲  ̲ ̲ ̲chan21_ok, Bool.and_true,̵ ̵B̵o̵o̵l̵.̵t̵r̵u̵e̵_̵a̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+ℹ [128/134] Replayed TwoBlack.PartCheck:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [130/134] Replayed TwoBlack.Chan.All:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [133/134] Replayed TwoBlack.PartData:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [134/134] Built TwoBlack.PartMut (9.3s)
+Build completed successfully (134 jobs).

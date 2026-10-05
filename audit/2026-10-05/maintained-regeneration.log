@@ -1,0 +1,8 @@
+Running gen_lean_hints.py
+Running gen_lean_parents.py
+Running gen_lean_channels.py
+Running gen_lean_perp.py
+Running gen_lean_par.py
+Running gen_lean_part.py
+All 90 Lean files agree after resource-option normalization; 8 files differ only by maxHeartbeats settings.
+Candidate data regenerated. Validate with a clean Lean build in /private/tmp/langton-audit.xPW28y/maintained-regeneration/lean

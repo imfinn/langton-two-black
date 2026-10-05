@@ -1,0 +1,258 @@
+[
+  {
+    "theorem": "TwoBlack.agree_run",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.halfplane_forever",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.reaches_of_certificate",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.corridor",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.corridor_succ",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.corridor_family",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.FState.step_toState",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.frun_toState",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.agreeB_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.check1_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.descent",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.certB_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.check0_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.perp_succ",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.perp_family",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.check2p_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.par_succ",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.par_family",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.check2par_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.perpOK_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.parOK_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.perpCovered_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.parCovered_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.StepHyp.step_first",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.StepHyp.step_new",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.step_chain",
+    "axioms": [
+      "propext",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.unroll",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "native_count": 0
+  },
+  {
+    "theorem": "TwoBlack.blank_facts",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound",
+      "TwoBlack.blank_check._native.native_decide.ax_1_1"
+    ],
+    "native_count": 1
+  },
+  {
+    "theorem": "TwoBlack.checkPart_sound",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound",
+      "TwoBlack.blank_check._native.native_decide.ax_1_1"
+    ],
+    "native_count": 1
+  }
+]

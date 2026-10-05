@@ -1,0 +1,360 @@
+{
+  "Axioms.lean": [
+    "TwoBlack"
+  ],
+  "TwoBlack.lean": [
+    "TwoBlack.Basic",
+    "TwoBlack.Coupling",
+    "TwoBlack.Highway",
+    "TwoBlack.Corridor",
+    "TwoBlack.Succ",
+    "TwoBlack.Family",
+    "TwoBlack.Check",
+    "TwoBlack.Level1Data",
+    "TwoBlack.Level1",
+    "TwoBlack.Tail",
+    "TwoBlack.Parent0",
+    "TwoBlack.OneBlack",
+    "TwoBlack.Pose",
+    "TwoBlack.General",
+    "TwoBlack.ParentTable",
+    "TwoBlack.TheoremA",
+    "TwoBlack.Remaining",
+    "TwoBlack.Channels",
+    "TwoBlack.Perp",
+    "TwoBlack.Check2",
+    "TwoBlack.PerpKids",
+    "TwoBlack.PerpData",
+    "TwoBlack.Par",
+    "TwoBlack.Check2Par",
+    "TwoBlack.ParData",
+    "TwoBlack.Final",
+    "TwoBlack.Step",
+    "TwoBlack.PartCheck",
+    "TwoBlack.PartData",
+    "TwoBlack.Main"
+  ],
+  "TwoBlack/Family.lean": [
+    "TwoBlack.Succ"
+  ],
+  "TwoBlack/Check.lean": [
+    "TwoBlack.Family",
+    "Std.Data.HashSet.Lemmas"
+  ],
+  "TwoBlack/ParData.lean": [
+    "TwoBlack.Check2Par",
+    "TwoBlack.Chan.All"
+  ],
+  "TwoBlack/ParentTable.lean": [
+    "TwoBlack.Parent0"
+  ],
+  "TwoBlack/Highway.lean": [
+    "TwoBlack.Coupling"
+  ],
+  "TwoBlack/Par.lean": [
+    "TwoBlack.Perp"
+  ],
+  "TwoBlack/Succ.lean": [
+    "TwoBlack.Corridor"
+  ],
+  "TwoBlack/Final.lean": [
+    "TwoBlack.Parents.All",
+    "TwoBlack.Chan.All",
+    "TwoBlack.PerpData",
+    "TwoBlack.ParData"
+  ],
+  "TwoBlack/Remaining.lean": [
+    "TwoBlack.TheoremA"
+  ],
+  "TwoBlack/OneBlack.lean": [
+    "TwoBlack.Level1",
+    "TwoBlack.Parent0"
+  ],
+  "TwoBlack/Basic.lean": [],
+  "TwoBlack/Corridor.lean": [
+    "TwoBlack.Highway"
+  ],
+  "TwoBlack/Level1.lean": [
+    "TwoBlack.Level1Data"
+  ],
+  "TwoBlack/PartCheck.lean": [
+    "TwoBlack.Step"
+  ],
+  "TwoBlack/Coupling.lean": [
+    "TwoBlack.Basic"
+  ],
+  "TwoBlack/General.lean": [
+    "TwoBlack.OneBlack",
+    "TwoBlack.Pose"
+  ],
+  "TwoBlack/PartMut.lean": [
+    "TwoBlack.PartData"
+  ],
+  "TwoBlack/PartData.lean": [
+    "TwoBlack.PartCheck",
+    "TwoBlack.Chan.All"
+  ],
+  "TwoBlack/Check2Par.lean": [
+    "TwoBlack.PerpKids",
+    "TwoBlack.Par"
+  ],
+  "TwoBlack/Step.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Level1Data.lean": [
+    "TwoBlack.Check"
+  ],
+  "TwoBlack/PerpKids.lean": [
+    "TwoBlack.Check2"
+  ],
+  "TwoBlack/Channels.lean": [
+    "TwoBlack.Remaining"
+  ],
+  "TwoBlack/Parent0.lean": [
+    "TwoBlack.Tail"
+  ],
+  "TwoBlack/Main.lean": [
+    "TwoBlack.Final",
+    "TwoBlack.PartData"
+  ],
+  "TwoBlack/Check2.lean": [
+    "TwoBlack.Perp"
+  ],
+  "TwoBlack/Perp.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Pose.lean": [
+    "TwoBlack.Succ"
+  ],
+  "TwoBlack/PerpData.lean": [
+    "TwoBlack.PerpKids",
+    "TwoBlack.Chan.All"
+  ],
+  "TwoBlack/TheoremA.lean": [
+    "TwoBlack.General",
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Tail.lean": [
+    "TwoBlack.Check"
+  ],
+  "TwoBlack/Parents/Chunk12.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk28.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk24.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk6.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk7.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk25.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk29.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk13.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk18.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk22.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk0.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk14.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk15.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk1.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk23.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/All.lean": [
+    "TwoBlack.Parents.Chunk0",
+    "TwoBlack.Parents.Chunk1",
+    "TwoBlack.Parents.Chunk2",
+    "TwoBlack.Parents.Chunk3",
+    "TwoBlack.Parents.Chunk4",
+    "TwoBlack.Parents.Chunk5",
+    "TwoBlack.Parents.Chunk6",
+    "TwoBlack.Parents.Chunk7",
+    "TwoBlack.Parents.Chunk8",
+    "TwoBlack.Parents.Chunk9",
+    "TwoBlack.Parents.Chunk10",
+    "TwoBlack.Parents.Chunk11",
+    "TwoBlack.Parents.Chunk12",
+    "TwoBlack.Parents.Chunk13",
+    "TwoBlack.Parents.Chunk14",
+    "TwoBlack.Parents.Chunk15",
+    "TwoBlack.Parents.Chunk16",
+    "TwoBlack.Parents.Chunk17",
+    "TwoBlack.Parents.Chunk18",
+    "TwoBlack.Parents.Chunk19",
+    "TwoBlack.Parents.Chunk20",
+    "TwoBlack.Parents.Chunk21",
+    "TwoBlack.Parents.Chunk22",
+    "TwoBlack.Parents.Chunk23",
+    "TwoBlack.Parents.Chunk24",
+    "TwoBlack.Parents.Chunk25",
+    "TwoBlack.Parents.Chunk26",
+    "TwoBlack.Parents.Chunk27",
+    "TwoBlack.Parents.Chunk28",
+    "TwoBlack.Parents.Chunk29",
+    "TwoBlack.Parents.Chunk30",
+    "TwoBlack.Parents.Chunk31"
+  ],
+  "TwoBlack/Parents/Chunk19.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk2.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk20.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk16.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk17.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk21.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk3.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk8.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk10.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk4.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk26.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk30.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk31.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk27.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk5.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk11.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Parents/Chunk9.lean": [
+    "TwoBlack.ParentTable"
+  ],
+  "TwoBlack/Chan/Data21.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data4.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data8.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data17.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data16.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data9.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data5.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data20.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data11.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data2.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data3.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data10.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/All.lean": [
+    "TwoBlack.Chan.Data0",
+    "TwoBlack.Chan.Data1",
+    "TwoBlack.Chan.Data2",
+    "TwoBlack.Chan.Data3",
+    "TwoBlack.Chan.Data4",
+    "TwoBlack.Chan.Data5",
+    "TwoBlack.Chan.Data6",
+    "TwoBlack.Chan.Data7",
+    "TwoBlack.Chan.Data8",
+    "TwoBlack.Chan.Data9",
+    "TwoBlack.Chan.Data10",
+    "TwoBlack.Chan.Data11",
+    "TwoBlack.Chan.Data12",
+    "TwoBlack.Chan.Data13",
+    "TwoBlack.Chan.Data14",
+    "TwoBlack.Chan.Data15",
+    "TwoBlack.Chan.Data16",
+    "TwoBlack.Chan.Data17",
+    "TwoBlack.Chan.Data18",
+    "TwoBlack.Chan.Data19",
+    "TwoBlack.Chan.Data20",
+    "TwoBlack.Chan.Data21"
+  ],
+  "TwoBlack/Chan/Data13.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data0.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data1.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data12.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data19.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data6.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data15.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data14.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data7.lean": [
+    "TwoBlack.Channels"
+  ],
+  "TwoBlack/Chan/Data18.lean": [
+    "TwoBlack.Channels"
+  ]
+}

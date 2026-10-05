@@ -1,0 +1,5 @@
+In file included from /tmp/langton-audit.xPW28y/original/code/calculus.cpp:20:
+/tmp/langton-audit.xPW28y/original/code/core.hpp:1:10: fatal error: 'bits/stdc++.h' file not found
+    1 | #include <bits/stdc++.h>
+      |          ^~~~~~~~~~~~~~~
+1 error generated.

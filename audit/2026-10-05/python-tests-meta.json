@@ -1,0 +1,43 @@
+[
+  {
+    "command": [
+      "python3",
+      "mutation_test.py",
+      "/tmp/langton-audit.xPW28y/regen/childdump.txt",
+      "20"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 30.271,
+    "log": "mutation_test-childdump.log"
+  },
+  {
+    "command": [
+      "python3",
+      "indep_family.py",
+      "/tmp/langton-audit.xPW28y/original/runs/famdump_all.txt"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 52.725,
+    "log": "indep_family-famdump_all.log"
+  },
+  {
+    "command": [
+      "python3",
+      "indep_family.py",
+      "/tmp/langton-audit.xPW28y/original/runs/famdump_conc.txt"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 38.725,
+    "log": "indep_family-famdump_conc.log"
+  },
+  {
+    "command": [
+      "python3",
+      "indep_family.py",
+      "/tmp/langton-audit.xPW28y/original/runs/famdump2.txt"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 193.402,
+    "log": "indep_family-famdump2.log"
+  }
+]

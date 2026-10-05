@@ -1,0 +1,57 @@
+{
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "commands": {
+    "lean": {
+      "command": [
+        "lean",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Lean (version 4.30.0, arm64-apple-darwin24.6.0, commit d024af099ca4bf2c86f649261ebf59565dc8c622, Release)"
+    },
+    "lake": {
+      "command": [
+        "lake",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Lake version 5.0.0-src+d024af0 (Lean version 4.30.0)"
+    },
+    "lean_c_compiler": {
+      "command": [
+        "lake",
+        "env",
+        "leanc",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "clang version 19.1.2 (https://github.com/llvm/llvm-project 7ba7d8e2f7b6445b60679da826210cdde29eaf8b)\nTarget: arm64-apple-darwin25.6.0\nThread model: posix\nInstalledDir: /Users/macuser/.elan/toolchains/leanprover--lean4---v4.30.0/bin"
+    },
+    "cpp_compiler": {
+      "command": [
+        "clang++",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Apple clang version 17.0.0 (clang-1700.6.4.2)\nTarget: arm64-apple-darwin25.6.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin"
+    },
+    "python": {
+      "command": [
+        "python3",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Python 3.9.6"
+    },
+    "numpy": {
+      "command": [
+        "python3",
+        "-c",
+        "import numpy; print(numpy.__version__)"
+      ],
+      "exit_code": 0,
+      "output": "2.0.2"
+    }
+  }
+}

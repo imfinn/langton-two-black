@@ -1,0 +1,35 @@
+'TwoBlack.agree_run' depends on axioms: [propext, Quot.sound]
+'TwoBlack.halfplane_forever' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.reaches_of_certificate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.corridor' depends on axioms: [propext, Quot.sound]
+'TwoBlack.corridor_succ' depends on axioms: [propext, Quot.sound]
+'TwoBlack.corridor_family' depends on axioms: [propext, Quot.sound]
+'TwoBlack.FState.step_toState' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.frun_toState' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.agreeB_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.check1_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.descent' depends on axioms: [propext, Quot.sound]
+'TwoBlack.certB_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.check0_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.perp_succ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.perp_family' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.check2p_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.par_succ' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.par_family' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.check2par_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.perpOK_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.parOK_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.perpCovered_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.parCovered_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.StepHyp.step_first' depends on axioms: [propext, Quot.sound]
+'TwoBlack.StepHyp.step_new' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.step_chain' depends on axioms: [propext, Quot.sound]
+'TwoBlack.unroll' depends on axioms: [propext, Classical.choice, Quot.sound]
+'TwoBlack.blank_facts' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ TwoBlack.blank_check._native.native_decide.ax_1_1]
+'TwoBlack.checkPart_sound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ TwoBlack.blank_check._native.native_decide.ax_1_1]

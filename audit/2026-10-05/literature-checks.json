@@ -1,0 +1,31 @@
+{
+  "audit_date": "2026-10-05",
+  "scope": "Limited primary-source inspection; not an exhaustive novelty or priority search.",
+  "additional_search_queries": [
+    "\"Langton\" \"two black cells\" \"104\" Lean",
+    "\"Langton\" \"at most two\" \"black\" theorem"
+  ],
+  "primary_sources": [
+    {
+      "url": "https://github.com/kehao95/langtons-ant-core/tree/3e9fa6229cc5667e2869887d21e07c6ea55697a5/one_black",
+      "checked": "Pinned theorem/semantics, toolchain and native tactic usage; not rebuilt."
+    },
+    {
+      "url": "https://github.com/kehao95/langtons-ant-core/blob/3e9fa6229cc5667e2869887d21e07c6ea55697a5/README.md",
+      "checked": "Author-supplied citation and DOI; DOI landing metadata not retrievable."
+    },
+    {
+      "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.MFCS.2026.49",
+      "checked": "Publisher record, article 49 in volume 386."
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.26677",
+      "checked": "Escape-time paper, not an unrestricted two-black highway proof."
+    },
+    {
+      "url": "https://doi.org/10.21203/rs.3.rs-10516269/v1",
+      "checked": "Finite-support periodic-highway constraints; Research Square inaccessible, author text consulted separately."
+    }
+  ],
+  "conclusion": "Keep to our knowledge wording; no exhaustive absence-of-prior-work claim is justified by these searches."
+}

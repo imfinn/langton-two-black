@@ -1,0 +1,422 @@
+info: two-black: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+✔ [2/261] Built TwoBlack.Basic (1.5s)
+✔ [3/261] Built TwoBlack.Basic:c.o (2.9s)
+ℹ [4/261] Built TwoBlack.Basic:dynlib (306ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [5/261] Built TwoBlack.Coupling (472ms)
+✔ [6/261] Built TwoBlack.Coupling:c.o (50ms)
+ℹ [7/261] Built TwoBlack.Coupling:dynlib (51ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [8/261] Built TwoBlack.Highway (533ms)
+✔ [9/261] Built TwoBlack.Highway:c.o (55ms)
+ℹ [10/261] Built TwoBlack.Highway:dynlib (51ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [11/261] Built TwoBlack.Corridor (969ms)
+✔ [12/261] Built TwoBlack.Corridor:c.o (109ms)
+ℹ [13/261] Built TwoBlack.Corridor:dynlib (54ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [14/261] Built TwoBlack.Succ (1.3s)
+✔ [15/261] Built TwoBlack.Succ:c.o (69ms)
+ℹ [16/261] Built TwoBlack.Succ:dynlib (52ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [17/261] Built TwoBlack.Family (625ms)
+✔ [18/261] Built TwoBlack.Pose (620ms)
+✔ [19/261] Built TwoBlack.Family:c.o (110ms)
+ℹ [20/261] Built TwoBlack.Family:dynlib (49ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [21/261] Built TwoBlack.Pose:c.o (112ms)
+ℹ [22/261] Built TwoBlack.Pose:dynlib (51ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [23/261] Built TwoBlack.Check (1.1s)
+✔ [24/261] Built TwoBlack.Check:c.o (363ms)
+ℹ [25/261] Built TwoBlack.Check:dynlib (51ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [26/261] Built TwoBlack.Level1Data (536ms)
+✔ [27/261] Built TwoBlack.Level1Data:c.o (206ms)
+✔ [28/261] Built TwoBlack.Tail (689ms)
+✔ [29/261] Built TwoBlack.Tail:c.o (54ms)
+ℹ [30/261] Built TwoBlack.Level1Data:dynlib (53ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [31/261] Built TwoBlack.Tail:dynlib (51ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [32/261] Built TwoBlack.Level1 (633ms)
+✔ [33/261] Built TwoBlack.Level1:c.o (49ms)
+ℹ [34/261] Built TwoBlack.Level1:dynlib (52ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [35/261] Built TwoBlack.Parent0 (1.1s)
+✔ [36/261] Built TwoBlack.Parent0:c.o (231ms)
+ℹ [37/261] Built TwoBlack.Parent0:dynlib (53ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [38/261] Built TwoBlack.ParentTable (697ms)
+✔ [39/261] Built TwoBlack.ParentTable:c.o (53ms)
+ℹ [40/261] Built TwoBlack.ParentTable:dynlib (52ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [41/261] Built TwoBlack.OneBlack (11s)
+✔ [42/261] Built TwoBlack.Parents.Chunk1 (476s)
+✔ [43/261] Built TwoBlack.Parents.Chunk4 (589s)
+✔ [44/261] Built TwoBlack.Parents.Chunk0 (652s)
+✔ [45/261] Built TwoBlack.Parents.Chunk5 (675s)
+✔ [46/261] Built TwoBlack.Parents.Chunk8 (685s)
+✔ [47/261] Built TwoBlack.Parents.Chunk3 (708s)
+✔ [48/261] Built TwoBlack.Parents.Chunk9 (849s)
+✔ [49/261] Built TwoBlack.Parents.Chunk7 (878s)
+✔ [50/261] Built TwoBlack.Parents.Chunk6 (902s)
+✔ [51/261] Built TwoBlack.Parents.Chunk2 (972s)
+✔ [52/261] Built TwoBlack.Parents.Chunk10 (789s)
+✔ [53/261] Built TwoBlack.Parents.Chunk15 (596s)
+✔ [54/261] Built TwoBlack.Parents.Chunk14 (697s)
+✔ [55/261] Built TwoBlack.Parents.Chunk16 (542s)
+✔ [56/261] Built TwoBlack.Parents.Chunk12 (766s)
+✔ [57/261] Built TwoBlack.Parents.Chunk11 (868s)
+✔ [58/261] Built TwoBlack.Parents.Chunk13 (945s)
+✔ [59/261] Built TwoBlack.Parents.Chunk17 (809s)
+✔ [60/261] Built TwoBlack.Parents.Chunk18 (1007s)
+✔ [61/261] Built TwoBlack.Parents.Chunk19 (1352s)
+✔ [62/261] Built TwoBlack.Parents.Chunk20 (1906s)
+✔ [63/261] Built TwoBlack.Parents.Chunk23 (1832s)
+✔ [65/261] Built TwoBlack.Parents.Chunk22 (1946s)
+✔ [66/261] Built TwoBlack.Parents.Chunk1:c.o (12s)
+✔ [67/261] Built TwoBlack.Parents.Chunk4:c.o (11s)
+✔ [68/261] Built TwoBlack.Parents.Chunk0:c.o (11s)
+✔ [69/261] Built TwoBlack.Parents.Chunk24 (1953s)
+✔ [70/261] Built TwoBlack.Parents.Chunk5:c.o (11s)
+✔ [71/261] Built TwoBlack.Parents.Chunk8:c.o (11s)
+✔ [72/261] Built TwoBlack.Parents.Chunk3:c.o (12s)
+✔ [73/261] Built TwoBlack.Parents.Chunk9:c.o (10s)
+✔ [74/261] Built TwoBlack.Parents.Chunk7:c.o (11s)
+✔ [75/261] Built TwoBlack.Parents.Chunk6:c.o (11s)
+✔ [76/261] Built TwoBlack.Parents.Chunk2:c.o (11s)
+✔ [77/261] Built TwoBlack.Parents.Chunk10:c.o (10s)
+✔ [78/261] Built TwoBlack.Parents.Chunk15:c.o (8.9s)
+✔ [79/261] Built TwoBlack.Parents.Chunk14:c.o (9.7s)
+✔ [80/261] Built TwoBlack.Parents.Chunk16:c.o (9.2s)
+✔ [81/261] Built TwoBlack.Parents.Chunk12:c.o (11s)
+✔ [82/261] Built TwoBlack.Parents.Chunk11:c.o (12s)
+✔ [83/261] Built TwoBlack.Parents.Chunk13:c.o (11s)
+✔ [84/261] Built TwoBlack.Parents.Chunk17:c.o (10s)
+✔ [85/261] Built TwoBlack.Parents.Chunk18:c.o (11s)
+✔ [86/261] Built TwoBlack.Parents.Chunk19:c.o (11s)
+✔ [88/261] Built TwoBlack.Parents.Chunk20:c.o (11s)
+✔ [89/261] Built TwoBlack.Parents.Chunk23:c.o (11s)
+ℹ [90/261] Built TwoBlack.Parents.Chunk1:dynlib (118ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [91/261] Built TwoBlack.Parents.Chunk0:dynlib (102ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [92/261] Built TwoBlack.Parents.Chunk4:dynlib (130ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [93/261] Built TwoBlack.Parents.Chunk22:c.o (11s)
+ℹ [94/261] Built TwoBlack.Parents.Chunk5:dynlib (112ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [95/261] Built TwoBlack.Parents.Chunk8:dynlib (99ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [96/261] Built TwoBlack.Parents.Chunk3:dynlib (109ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [97/261] Built TwoBlack.Parents.Chunk9:dynlib (81ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [98/261] Built TwoBlack.Parents.Chunk6:dynlib (96ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [99/261] Built TwoBlack.Parents.Chunk7:dynlib (88ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [100/261] Built TwoBlack.Parents.Chunk2:dynlib (107ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [101/261] Built TwoBlack.Parents.Chunk10:dynlib (132ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [102/261] Built TwoBlack.Parents.Chunk14:dynlib (98ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [103/261] Built TwoBlack.Parents.Chunk15:dynlib (100ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [104/261] Built TwoBlack.Parents.Chunk16:dynlib (85ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [105/261] Built TwoBlack.Parents.Chunk12:dynlib (100ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [106/261] Built TwoBlack.Parents.Chunk11:dynlib (92ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [107/261] Built TwoBlack.Parents.Chunk13:dynlib (104ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [108/261] Built TwoBlack.Parents.Chunk17:dynlib (111ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [109/261] Built TwoBlack.Parents.Chunk18:dynlib (98ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [110/261] Built TwoBlack.Parents.Chunk19:dynlib (77ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [111/261] Built TwoBlack.Parents.Chunk20:dynlib (106ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [112/261] Built TwoBlack.Parents.Chunk23:dynlib (114ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [125/261] Built TwoBlack.Parents.Chunk22:dynlib (105ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [127/261] Built TwoBlack.Parents.Chunk24:c.o (11s)
+✔ [128/261] Built TwoBlack.Chan.Data21 (17s)
+✔ [129/261] Built TwoBlack.Chan.Data20 (35s)
+✔ [130/261] Built TwoBlack.Parents.Chunk21 (2237s)
+✔ [131/261] Built TwoBlack.Parents.Chunk25 (2110s)
+✔ [132/261] Built TwoBlack.Chan.Data17 (52s)
+✔ [133/261] Built TwoBlack.Chan.Data16 (40s)
+✔ [134/261] Built TwoBlack.Chan.Data18 (96s)
+✔ [135/261] Built TwoBlack.Chan.Data14 (36s)
+✔ [136/261] Built TwoBlack.Chan.Data13 (51s)
+✔ [137/261] Built TwoBlack.Chan.Data12 (48s)
+✔ [138/261] Built TwoBlack.Parents.Chunk26 (2075s)
+✔ [139/261] Built TwoBlack.Chan.Data10 (64s)
+✔ [140/261] Built TwoBlack.Chan.Data9 (63s)
+✔ [141/261] Built TwoBlack.Chan.Data11 (101s)
+✔ [142/261] Built TwoBlack.Chan.Data15 (202s)
+✔ [143/261] Built TwoBlack.Chan.Data7 (42s)
+✔ [144/261] Built TwoBlack.Chan.Data6 (49s)
+✔ [145/261] Built TwoBlack.Chan.Data3 (21s)
+✔ [146/261] Built TwoBlack.Chan.Data8 (158s)
+✔ [147/261] Built TwoBlack.Chan.Data1 (20s)
+⚠ [148/261] Replayed TwoBlack.Perp
+warning: TwoBlack/Perp.lean:27:40: unused variable `gap`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: TwoBlack/Perp.lean:70:70: unused variable `hDC`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [149/261] Built TwoBlack.Chan.Data4 (139s)
+ℹ [151/261] Built TwoBlack.Parents.Chunk24:dynlib (256ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [152/261] Built TwoBlack.Parents.Chunk27 (2255s)
+✔ [153/261] Built TwoBlack.Chan.Data5 (149s)
+✔ [154/261] Built TwoBlack.Chan.Data21:c.o (10s)
+✔ [155/261] Built TwoBlack.Chan.Data20:c.o (14s)
+✔ [156/261] Built TwoBlack.Parents.Chunk21:c.o (12s)
+✔ [157/261] Built TwoBlack.Chan.Data0 (21s)
+✔ [158/261] Built TwoBlack.Chan.Data2 (117s)
+✔ [159/261] Built TwoBlack.Parents.Chunk25:c.o (12s)
+✔ [160/261] Built TwoBlack.Chan.Data14:c.o (12s)
+✔ [161/261] Built TwoBlack.Chan.Data16:c.o (18s)
+✔ [162/261] Built TwoBlack.Chan.Data13:c.o (13s)
+✔ [163/261] Built TwoBlack.Chan.Data17:c.o (20s)
+✔ [164/261] Built TwoBlack.Chan.Data18:c.o (26s)
+✔ [165/261] Built TwoBlack.Parents.Chunk26:c.o (13s)
+✔ [166/261] Built TwoBlack.Chan.Data12:c.o (18s)
+✔ [167/261] Built TwoBlack.Chan.Data9:c.o (13s)
+✔ [168/261] Built TwoBlack.Chan.Data10:c.o (14s)
+✔ [169/261] Built TwoBlack.Chan.Data3:c.o (10s)
+✔ [170/261] Built TwoBlack.Chan.Data11:c.o (18s)
+✔ [172/261] Built TwoBlack.Chan.Data7:c.o (18s)
+✔ [173/261] Built TwoBlack.Chan.Data6:c.o (19s)
+✔ [175/261] Built TwoBlack.Chan.Data1:c.o (10s)
+✔ [176/261] Built TwoBlack.Chan.Data8:c.o (15s)
+ℹ [177/261] Built TwoBlack.Chan.Data21:dynlib (147ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [178/261] Built TwoBlack.Chan.Data20:dynlib (115ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [179/261] Built TwoBlack.Parents.Chunk21:dynlib (143ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [180/261] Built TwoBlack.Parents.Chunk27:c.o (13s)
+✔ [181/261] Built TwoBlack.Chan.Data4:c.o (17s)
+ℹ [182/261] Built TwoBlack.Parents.Chunk25:dynlib (147ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [183/261] Built TwoBlack.Chan.Data14:dynlib (133ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [184/261] Built TwoBlack.Chan.Data16:dynlib (172ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [185/261] Built TwoBlack.Chan.Data13:dynlib (116ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [186/261] Built TwoBlack.Chan.Data17:dynlib (162ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [187/261] Built TwoBlack.Chan.Data18:dynlib (176ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [188/261] Built TwoBlack.Parents.Chunk26:dynlib (167ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [189/261] Built TwoBlack.Chan.Data12:dynlib (199ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [190/261] Built TwoBlack.Chan.Data9:dynlib (126ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [191/261] Built TwoBlack.Chan.Data10:dynlib (156ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [192/261] Built TwoBlack.Chan.Data3:dynlib (167ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [194/261] Built TwoBlack.Chan.Data0:c.o (10s)
+ℹ [195/261] Built TwoBlack.Chan.Data11:dynlib (180ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [196/261] Built TwoBlack.Chan.Data7:dynlib (167ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [197/261] Built TwoBlack.Chan.Data6:dynlib (172ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [198/261] Built TwoBlack.Chan.Data1:dynlib (171ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [199/261] Built TwoBlack.Chan.Data8:dynlib (158ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [201/261] Built TwoBlack.Chan.Data4:dynlib (100ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [203/261] Built TwoBlack.Parents.Chunk27:dynlib (109ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [208/261] Built TwoBlack.Chan.Data0:dynlib (103ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [214/261] Built TwoBlack.Chan.Data15:c.o (39s)
+✔ [215/261] Built TwoBlack.Check2Par:c.o (361ms)
+✔ [216/261] Built TwoBlack.PartCheck:c.o (456ms)
+ℹ [217/261] Built TwoBlack.Chan.Data15:dynlib (154ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [218/261] Built TwoBlack.Check2Par:dynlib (77ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [219/261] Built TwoBlack.PartCheck:dynlib (70ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [220/261] Built TwoBlack.Chan.Data5:c.o (23s)
+ℹ [221/261] Built TwoBlack.Chan.Data5:dynlib (107ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [222/261] Built TwoBlack.Chan.Data2:c.o (14s)
+ℹ [223/261] Built TwoBlack.Chan.Data2:dynlib (88ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [224/261] Built TwoBlack.Parents.Chunk28 (2184s)
+✔ [225/261] Built TwoBlack.Parents.Chunk28:c.o (9.1s)
+ℹ [226/261] Built TwoBlack.Parents.Chunk28:dynlib (76ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [227/261] Built TwoBlack.Chan.Data19 (649s)
+✔ [228/261] Built TwoBlack.Chan.Data19:c.o (43s)
+ℹ [229/261] Built TwoBlack.Chan.Data19:dynlib (178ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+⚠ [230/261] Built TwoBlack.Chan.All (6.3s)
+warning: TwoBlack/Chan/All.lean:29:300: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [chanTable, List.all_cons, List.all_nil, chan0_ok, chan1_ok, chan2_ok, chan3_ok,
+  ̲  ̲ ̲ ̲chan4_ok, chan5_ok, chan6_ok, chan7_ok, chan8_ok, chan9_ok, chan10_ok, chan11_ok, chan12_ok,
+  ̲  ̲ ̲ ̲chan13_ok, chan14_ok, chan15_ok, chan16_ok, chan17_ok, chan18_ok, chan19_ok, chan20_ok,
+  ̲  ̲ ̲ ̲chan21_ok, Bool.and_true,̵ ̵B̵o̵o̵l̵.̵t̵r̵u̵e̵_̵a̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [231/261] Built TwoBlack.Chan.All:c.o (77ms)
+ℹ [232/261] Built TwoBlack.Chan.All:dynlib (52ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [233/261] Built TwoBlack.PartData (9.0s)
+✔ [234/261] Built TwoBlack.PartData:c.o (222ms)
+ℹ [235/261] Built TwoBlack.PartData:dynlib (52ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [236/261] Built TwoBlack.PerpData (16s)
+✔ [237/261] Built TwoBlack.PerpData:c.o (2.8s)
+ℹ [238/261] Built TwoBlack.PerpData:dynlib (61ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [239/261] Built TwoBlack.ParData (142s)
+✔ [240/261] Built TwoBlack.ParData:c.o (3.0s)
+ℹ [241/261] Built TwoBlack.ParData:dynlib (60ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [242/261] Built TwoBlack.Parents.Chunk29 (2278s)
+✔ [243/261] Built TwoBlack.Parents.Chunk29:c.o (8.5s)
+ℹ [244/261] Built TwoBlack.Parents.Chunk29:dynlib (73ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [245/261] Built TwoBlack.Parents.Chunk30 (1946s)
+✔ [246/261] Built TwoBlack.Parents.Chunk30:c.o (8.2s)
+ℹ [247/261] Built TwoBlack.Parents.Chunk30:dynlib (75ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [248/261] Built TwoBlack.Parents.Chunk31 (2184s)
+✔ [249/261] Built TwoBlack.Parents.Chunk31:c.o (8.3s)
+ℹ [250/261] Built TwoBlack.Parents.Chunk31:dynlib (75ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+⚠ [251/261] Built TwoBlack.Parents.All (8.1s)
+warning: TwoBlack/Parents/All.lean:39:432: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.t̵r̵u̵e̵_̵and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_true]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: TwoBlack/Parents/All.lean:39:447: This simp argument is unused:
+  Bool.and_true
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.true_and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_̵t̵r̵u̵e̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [252/261] Built TwoBlack.Parents.All:c.o (75ms)
+ℹ [253/261] Built TwoBlack.Parents.All:dynlib (53ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [254/261] Built TwoBlack.Final (1.2s)
+✔ [255/261] Built TwoBlack.Final:c.o (51ms)
+ℹ [256/261] Built TwoBlack.Final:dynlib (50ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [257/261] Built TwoBlack.Main (723ms)
+✔ [258/261] Built TwoBlack.Main:c.o (52ms)
+ℹ [259/261] Built TwoBlack.Main:dynlib (50ms)
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [260/261] Built TwoBlack (711ms)
+Build completed successfully (261 jobs).

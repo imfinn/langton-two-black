@@ -1,0 +1,61 @@
+{
+  "portable_compilation": [
+    {
+      "command": [
+        "c++",
+        "-std=c++17",
+        "-O2",
+        "-o",
+        "/tmp/langton-audit.xPW28y/maintained-calc",
+        "code/calculus.cpp"
+      ],
+      "exit_code": 0,
+      "log": "maintained-calc-build.log"
+    },
+    {
+      "command": [
+        "c++",
+        "-std=c++17",
+        "-O2",
+        "-o",
+        "/tmp/langton-audit.xPW28y/maintained-indep",
+        "code/indep.cpp"
+      ],
+      "exit_code": 0,
+      "log": "maintained-indep-build.log"
+    }
+  ],
+  "python_syntax_files_checked": 13,
+  "bash_syntax": "passed",
+  "proof_preservation": "All 89 original Lean files, original toolchain/config and paper match original SHA-256 hashes.",
+  "regeneration": {
+    "command": [
+      "python3",
+      "scripts/regenerate_data.py",
+      "--output",
+      "/tmp/langton-audit.xPW28y/maintained-regeneration",
+      "--calc",
+      "/tmp/langton-audit.xPW28y/maintained-calc"
+    ],
+    "exit_code": 0,
+    "elapsed_seconds": 3.497,
+    "log": "maintained-regeneration.log"
+  },
+  "generated_lean_files_compared": 90,
+  "byte_identical": 82,
+  "resource_option_only": 8,
+  "helper_script": {
+    "command": [
+      "bash",
+      "scripts/validate.sh"
+    ],
+    "cwd": "/tmp/langton-audit.xPW28y/validation-harness",
+    "AUDIT_OUTPUT_DIR": "../maintained-helper-output",
+    "exit_code": 0,
+    "elapsed_seconds": 19.035,
+    "note": "End-to-end helper run using the independently clean-built, hash-identical proof source and its local cache; --clean was not repeated. No build outputs placed in publication repository."
+  },
+  "crosscheck_wrapper": "Summary patterns separately checked against six fresh external-test logs; the new portable C++ level1 and independent detector checks were actually rerun.",
+  "second_clean_build": "Not repeated for the publication copy or regenerated copy; preserved proof source is hash-identical to the independently clean-built artifact. End-to-end maintained helper was run using that audited source/build in a temporary harness.",
+  "repository_build_outputs": "None included."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "command": [
+      "lake",
+      "env",
+      "lean",
+      "Axioms.lean"
+    ],
+    "exit_code": 0,
+    "log": "axioms-all.out"
+  },
+  {
+    "command": [
+      "lake",
+      "env",
+      "lean",
+      "/tmp/langton-audit.xPW28y/TheoremAAxioms.lean"
+    ],
+    "exit_code": 0,
+    "log": "theoremA-axioms.out"
+  },
+  {
+    "command": [
+      "lake",
+      "env",
+      "lean",
+      "/tmp/langton-audit.xPW28y/ExtraAxioms.lean"
+    ],
+    "exit_code": 0,
+    "log": "extra-axioms.out"
+  }
+]

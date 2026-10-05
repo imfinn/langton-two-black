@@ -1,0 +1,25 @@
+[
+  {
+    "name": "maintained-level1",
+    "command": [
+      "/tmp/langton-audit.xPW28y/maintained-calc",
+      "level1"
+    ],
+    "exit_code": 0,
+    "passed_summary_check": true,
+    "elapsed_seconds": 0.799,
+    "log": "maintained-level1.log"
+  },
+  {
+    "name": "maintained-independent-detector",
+    "command": [
+      "/tmp/langton-audit.xPW28y/maintained-indep",
+      "file",
+      "runs/v2dump.txt"
+    ],
+    "exit_code": 0,
+    "passed_summary_check": true,
+    "elapsed_seconds": 9.179,
+    "log": "maintained-independent-detector.log"
+  }
+]

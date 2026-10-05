@@ -1,0 +1,11 @@
+{
+  "command": [
+    "bash",
+    "scripts/validate.sh"
+  ],
+  "cwd": "/tmp/langton-audit.xPW28y/validation-harness",
+  "AUDIT_OUTPUT_DIR": "../maintained-helper-output",
+  "exit_code": 0,
+  "elapsed_seconds": 19.035,
+  "note": "End-to-end helper run using the independently clean-built, hash-identical proof source and its local cache; --clean was not repeated. No build outputs placed in publication repository."
+}

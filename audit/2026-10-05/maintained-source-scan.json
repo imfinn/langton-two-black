@@ -1,0 +1,357 @@
+{
+  "scope": "authored lean/**/*.lean, excluding .lake",
+  "files": 90,
+  "matches": {
+    "proof_holes": [],
+    "authored_axiom": [],
+    "bypass_hooks": [],
+    "external_execution_or_data": [],
+    "native_calls": [
+      {
+        "path": "lean/TwoBlack/Chan/Data0.lean",
+        "line": 1094,
+        "text": "theorem chan0_ok : chan0.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data1.lean",
+        "line": 1136,
+        "text": "theorem chan1_ok : chan1.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data10.lean",
+        "line": 1466,
+        "text": "theorem chan10_ok : chan10.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data11.lean",
+        "line": 1965,
+        "text": "theorem chan11_ok : chan11.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data12.lean",
+        "line": 1951,
+        "text": "theorem chan12_ok : chan12.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data13.lean",
+        "line": 1461,
+        "text": "theorem chan13_ok : chan13.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data14.lean",
+        "line": 1367,
+        "text": "theorem chan14_ok : chan14.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data15.lean",
+        "line": 4206,
+        "text": "theorem chan15_ok : chan15.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data16.lean",
+        "line": 1995,
+        "text": "theorem chan16_ok : chan16.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data17.lean",
+        "line": 2197,
+        "text": "theorem chan17_ok : chan17.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data18.lean",
+        "line": 2752,
+        "text": "theorem chan18_ok : chan18.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data19.lean",
+        "line": 6985,
+        "text": "theorem chan19_ok : chan19.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data2.lean",
+        "line": 1855,
+        "text": "theorem chan2_ok : chan2.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data20.lean",
+        "line": 1584,
+        "text": "theorem chan20_ok : chan20.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data21.lean",
+        "line": 1099,
+        "text": "theorem chan21_ok : chan21.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data3.lean",
+        "line": 1156,
+        "text": "theorem chan3_ok : chan3.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data4.lean",
+        "line": 1920,
+        "text": "theorem chan4_ok : chan4.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data5.lean",
+        "line": 2758,
+        "text": "theorem chan5_ok : chan5.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data6.lean",
+        "line": 2180,
+        "text": "theorem chan6_ok : chan6.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data7.lean",
+        "line": 1973,
+        "text": "theorem chan7_ok : chan7.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data8.lean",
+        "line": 1629,
+        "text": "theorem chan8_ok : chan8.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Chan/Data9.lean",
+        "line": 1441,
+        "text": "theorem chan9_ok : chan9.kids1.all Kid1.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Final.lean",
+        "line": 12,
+        "text": "theorem cover_ok : coverLoop parentTable (FState.init []) {} 0 blankT2 = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Level1.lean",
+        "line": 12,
+        "text": "theorem level1_checks : level1Families.all (fun p => check1 p.1 p.2) = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/OneBlack.lean",
+        "line": 17,
+        "text": "theorem blank_check : check0 [] blankHint level1Families = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/OneBlack.lean",
+        "line": 28,
+        "text": "theorem blank_reaches : ReachesP104 (initState []) := certB_sound [] 200 (by native_decide)"
+      },
+      {
+        "path": "lean/TwoBlack/ParData.lean",
+        "line": 232,
+        "text": "theorem par_covered : parCovered chanTable parTable = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk0.lean",
+        "line": 86,
+        "text": "theorem chunk0_ok : chunk0.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk1.lean",
+        "line": 86,
+        "text": "theorem chunk1_ok : chunk1.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk10.lean",
+        "line": 86,
+        "text": "theorem chunk10_ok : chunk10.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk11.lean",
+        "line": 86,
+        "text": "theorem chunk11_ok : chunk11.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk12.lean",
+        "line": 86,
+        "text": "theorem chunk12_ok : chunk12.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk13.lean",
+        "line": 86,
+        "text": "theorem chunk13_ok : chunk13.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk14.lean",
+        "line": 86,
+        "text": "theorem chunk14_ok : chunk14.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk15.lean",
+        "line": 86,
+        "text": "theorem chunk15_ok : chunk15.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk16.lean",
+        "line": 86,
+        "text": "theorem chunk16_ok : chunk16.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk17.lean",
+        "line": 86,
+        "text": "theorem chunk17_ok : chunk17.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk18.lean",
+        "line": 86,
+        "text": "theorem chunk18_ok : chunk18.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk19.lean",
+        "line": 86,
+        "text": "theorem chunk19_ok : chunk19.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk2.lean",
+        "line": 86,
+        "text": "theorem chunk2_ok : chunk2.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk20.lean",
+        "line": 86,
+        "text": "theorem chunk20_ok : chunk20.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk21.lean",
+        "line": 86,
+        "text": "theorem chunk21_ok : chunk21.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk22.lean",
+        "line": 86,
+        "text": "theorem chunk22_ok : chunk22.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk23.lean",
+        "line": 86,
+        "text": "theorem chunk23_ok : chunk23.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk24.lean",
+        "line": 86,
+        "text": "theorem chunk24_ok : chunk24.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk25.lean",
+        "line": 86,
+        "text": "theorem chunk25_ok : chunk25.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk26.lean",
+        "line": 86,
+        "text": "theorem chunk26_ok : chunk26.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk27.lean",
+        "line": 86,
+        "text": "theorem chunk27_ok : chunk27.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk28.lean",
+        "line": 86,
+        "text": "theorem chunk28_ok : chunk28.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk29.lean",
+        "line": 86,
+        "text": "theorem chunk29_ok : chunk29.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk3.lean",
+        "line": 86,
+        "text": "theorem chunk3_ok : chunk3.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk30.lean",
+        "line": 86,
+        "text": "theorem chunk30_ok : chunk30.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk31.lean",
+        "line": 86,
+        "text": "theorem chunk31_ok : chunk31.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk4.lean",
+        "line": 86,
+        "text": "theorem chunk4_ok : chunk4.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk5.lean",
+        "line": 86,
+        "text": "theorem chunk5_ok : chunk5.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk6.lean",
+        "line": 86,
+        "text": "theorem chunk6_ok : chunk6.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk7.lean",
+        "line": 86,
+        "text": "theorem chunk7_ok : chunk7.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk8.lean",
+        "line": 86,
+        "text": "theorem chunk8_ok : chunk8.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/Parents/Chunk9.lean",
+        "line": 86,
+        "text": "theorem chunk9_ok : chunk9.all PEntry.ok = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartData.lean",
+        "line": 48,
+        "text": "theorem part_checks : level1Families.all (fun p => partOK p.1) = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 21,
+        "text": "theorem ok0 : runWith F0 id = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 22,
+        "text": "theorem drop_first : runWith F0 (dropAt 0) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 23,
+        "text": "theorem drop_middle : runWith F0 (dropAt 500) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 24,
+        "text": "theorem drop_tail : runWith F0 (fun ks => ks.take (ks.length - 1)) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 25,
+        "text": "theorem ok19 : runWith F19 id = true := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 26,
+        "text": "theorem drop_split : runWith F19 (fun ks => ks.filter (fun c => c.2 != [10, 30])) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 27,
+        "text": "theorem drop_fixed : runWith F19 (dropAt 0) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PartMut.lean",
+        "line": 30,
+        "text": "| none => false) = false := by native_decide"
+      },
+      {
+        "path": "lean/TwoBlack/PerpData.lean",
+        "line": 298,
+        "text": "theorem perp_covered : perpCovered chanTable perpTable = true := by native_decide"
+      }
+    ]
+  }
+}

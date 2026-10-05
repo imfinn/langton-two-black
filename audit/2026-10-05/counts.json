@@ -1,0 +1,11 @@
+{
+  "lean_source_files": 89,
+  "concrete_parents": 2432,
+  "parent_tail_families": 53504,
+  "channel_parents": 22,
+  "one_parameter_children": 45452,
+  "two_parameter_children": 506,
+  "blank_first_reads_before_cutoff": 2432,
+  "blankT2": 14976,
+  "table_exact_python": true
+}

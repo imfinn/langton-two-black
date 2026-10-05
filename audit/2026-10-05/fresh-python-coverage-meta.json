@@ -1,0 +1,13 @@
+{
+  "command": [
+    "python3",
+    "indep_cover.py",
+    "/tmp/langton-audit.xPW28y/regen/childdump.txt",
+    "80"
+  ],
+  "exit_code": 0,
+  "elapsed_seconds": 172.902,
+  "last_line": "INDEPENDENT COVERTEST: parents 174, members 350, new cells checked 962875, uncovered 0, multiply covered 0",
+  "parent_failures": 0,
+  "gaps_reported": 0
+}

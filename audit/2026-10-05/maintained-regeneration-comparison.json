@@ -1,0 +1,452 @@
+[
+  {
+    "path": "Axioms.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TheoremAAxioms.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Basic.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/All.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data0.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data1.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data10.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data11.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data12.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data13.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data14.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data15.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data16.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data17.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data18.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data19.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data2.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data20.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data21.lean",
+    "byte_identical": false,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data3.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data4.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data5.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data6.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data7.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data8.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Chan/Data9.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Channels.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Check.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Check2.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Check2Par.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Corridor.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Coupling.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Family.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Final.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/General.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Highway.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Level1.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Level1Data.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Main.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/OneBlack.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Par.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/ParData.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parent0.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/ParentTable.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/All.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk0.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk1.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk10.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk11.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk12.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk13.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk14.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk15.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk16.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk17.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk18.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk19.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk2.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk20.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk21.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk22.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk23.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk24.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk25.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk26.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk27.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk28.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk29.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk3.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk30.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk31.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk4.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk5.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk6.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk7.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk8.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Parents/Chunk9.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/PartCheck.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/PartData.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/PartMut.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Perp.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/PerpData.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/PerpKids.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Pose.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Remaining.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Step.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Succ.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/Tail.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack/TheoremA.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  },
+  {
+    "path": "TwoBlack.lean",
+    "byte_identical": true,
+    "equal_ignoring_resource_option": true
+  }
+]

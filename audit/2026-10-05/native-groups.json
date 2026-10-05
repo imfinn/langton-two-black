@@ -1,0 +1,12 @@
+{
+  "blank": 2,
+  "level1": 1,
+  "concrete_parent_chunks": 32,
+  "channel_children": 22,
+  "perpendicular": 1,
+  "parallel": 1,
+  "concrete_coverage": 1,
+  "channel_partition": 1,
+  "total": 61,
+  "exact_group_names_checked": true
+}

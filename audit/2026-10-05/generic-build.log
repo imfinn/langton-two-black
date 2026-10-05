@@ -1,0 +1,77 @@
+ℹ [4/72] Replayed TwoBlack.Basic:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [7/72] Replayed TwoBlack.Coupling:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [10/72] Replayed TwoBlack.Highway:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [13/72] Replayed TwoBlack.Corridor:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [16/72] Replayed TwoBlack.Succ:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [19/72] Replayed TwoBlack.Family:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [22/72] Replayed TwoBlack.Check:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [25/72] Replayed TwoBlack.Level1Data:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [29/72] Replayed TwoBlack.Tail:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [32/72] Replayed TwoBlack.Level1:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [34/72] Replayed TwoBlack.Parent0:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [38/72] Replayed TwoBlack.Pose:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+ℹ [41/72] Replayed TwoBlack.ParentTable:dynlib
+info: stderr:
+ld64.lld: warning: directory not found for option -L/usr/local/lib
+✔ [42/72] Built TwoBlack.OneBlack:c.o (267ms)
+✔ [43/72] Built TwoBlack.OneBlack:dynlib (78ms)
+✔ [44/72] Built TwoBlack.General (924ms)
+✔ [45/72] Built TwoBlack.General:c.o (55ms)
+✔ [46/72] Built TwoBlack.General:dynlib (56ms)
+✔ [47/72] Built TwoBlack.TheoremA (681ms)
+✔ [48/72] Built TwoBlack.TheoremA:c.o (87ms)
+✔ [49/72] Built TwoBlack.TheoremA:dynlib (58ms)
+✔ [50/72] Built TwoBlack.Remaining (756ms)
+✔ [51/72] Built TwoBlack.Remaining:c.o (134ms)
+✔ [52/72] Built TwoBlack.Remaining:dynlib (58ms)
+✔ [53/72] Built TwoBlack.Channels (595ms)
+✔ [54/72] Built TwoBlack.Channels:c.o (85ms)
+✔ [55/72] Built TwoBlack.Channels:dynlib (65ms)
+✔ [56/72] Built TwoBlack.Step (1.2s)
+✔ [57/72] Built TwoBlack.Step:c.o (56ms)
+✔ [58/72] Built TwoBlack.Step:dynlib (63ms)
+⚠ [59/72] Built TwoBlack.Perp (1.4s)
+warning: TwoBlack/Perp.lean:27:40: unused variable `gap`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: TwoBlack/Perp.lean:70:70: unused variable `hDC`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [60/72] Built TwoBlack.Perp:c.o (85ms)
+✔ [61/72] Built TwoBlack.Perp:dynlib (58ms)
+✔ [62/72] Built TwoBlack.Check2 (1.4s)
+✔ [63/72] Built TwoBlack.Check2:c.o (493ms)
+✔ [64/72] Built TwoBlack.Check2:dynlib (56ms)
+✔ [65/72] Built TwoBlack.PartCheck (2.6s)
+✔ [66/72] Built TwoBlack.PerpKids (672ms)
+✔ [67/72] Built TwoBlack.PerpKids:c.o (145ms)
+✔ [68/72] Built TwoBlack.PerpKids:dynlib (58ms)
+✔ [69/72] Built TwoBlack.Par (3.8s)
+✔ [70/72] Built TwoBlack.Par:c.o (101ms)
+✔ [71/72] Built TwoBlack.Par:dynlib (56ms)
+✔ [72/72] Built TwoBlack.Check2Par (1.9s)
+Build completed successfully (72 jobs).

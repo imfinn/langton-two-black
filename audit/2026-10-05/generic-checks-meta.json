@@ -1,0 +1,22 @@
+{
+  "build_command": [
+    "lake",
+    "--no-cache",
+    "build",
+    "TwoBlack.PartCheck",
+    "TwoBlack.Check2Par"
+  ],
+  "build_exit_code": 0,
+  "axiom_command": [
+    "lake",
+    "env",
+    "lean",
+    "/tmp/langton-audit.xPW28y/GenericAxioms.lean"
+  ],
+  "axiom_exit_code": 0,
+  "declarations": 29,
+  "nonstandard_premise_users": [
+    "TwoBlack.blank_facts",
+    "TwoBlack.checkPart_sound"
+  ]
+}

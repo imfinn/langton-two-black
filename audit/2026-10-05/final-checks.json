@@ -1,0 +1,11 @@
+{
+  "final_preservation_check": "All 89 original Lean files, toolchain, Lake config and paper match the supplied hashes.",
+  "document_links": "All local links in README, AUDIT, TRUST, PROOF_MAP and MANUSCRIPT_REVIEW resolve.",
+  "unresolved_placeholders": 0,
+  "repository_lean_build_artifacts": 0,
+  "repository_files_before_this_record": 225,
+  "repository_bytes_before_this_record": 13766885,
+  "manuscript_substantive_comparison_rows": 97,
+  "git_state": "Initial repository remains without a commit or remote; all publication files are present for owner review.",
+  "license_metadata": "Not supplied; owner must choose/provide an authorized license before publishing."
+}

@@ -1,0 +1,1155 @@
+{
+  "sha": "3e9fa6229cc5667e2869887d21e07c6ea55697a5",
+  "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/3e9fa6229cc5667e2869887d21e07c6ea55697a5",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "458d540df71f29c6e6d3269b065970dcc069db99",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/458d540df71f29c6e6d3269b065970dcc069db99"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9ce406efe276f566fafad073d6945feae77aa160",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/9ce406efe276f566fafad073d6945feae77aa160"
+    },
+    {
+      "path": ".github/workflows/deploy-pages.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af1436910a76566d67bda7d2b1c22df590991151",
+      "size": 949,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/af1436910a76566d67bda7d2b1c22df590991151"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4a3caf452548b72c9f09cd286fdae49859cf7fa",
+      "size": 59,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/c4a3caf452548b72c9f09cd286fdae49859cf7fa"
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eae82934f72fc1bb330e8678d6dfad5dfe01227d",
+      "size": 860,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/eae82934f72fc1bb330e8678d6dfad5dfe01227d"
+    },
+    {
+      "path": "PROOF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebbf0bdd50d064b24032b3bb9f808d72b7fa11ec",
+      "size": 9283,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ebbf0bdd50d064b24032b3bb9f808d72b7fa11ec"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a086b7324ccfe3d4504f25127f6a17225135995b",
+      "size": 1497,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/a086b7324ccfe3d4504f25127f6a17225135995b"
+    },
+    {
+      "path": "RESEARCH.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16cbdd5a5c3fe27dc06e0ece6eb4715c3997542c",
+      "size": 12638,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/16cbdd5a5c3fe27dc06e0ece6eb4715c3997542c"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7859dcbb1e2aba331de0f4d780f9e88a98167bf4",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/7859dcbb1e2aba331de0f4d780f9e88a98167bf4"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "docs/app.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3a4b5ec6aaa10e9a4f5c78f5546d81115ebf242",
+      "size": 68319,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f3a4b5ec6aaa10e9a4f5c78f5546d81115ebf242"
+    },
+    {
+      "path": "docs/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecd3b96a9b8d01d0fbc20d6b0acf2c9c2f1ea7b9",
+      "size": 4899,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ecd3b96a9b8d01d0fbc20d6b0acf2c9c2f1ea7b9"
+    },
+    {
+      "path": "docs/proof-map.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98852e822a7f9a459eccd83b480b592416967351",
+      "size": 228441,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/98852e822a7f9a459eccd83b480b592416967351"
+    },
+    {
+      "path": "docs/styles.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9f8742a89e9287b60d4006934ed96f76f961de0",
+      "size": 7369,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/e9f8742a89e9287b60d4006934ed96f76f961de0"
+    },
+    {
+      "path": "docs/vendor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5ba10aa3b4f9657ef2233972dc00b1fa5af1d8e4",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/5ba10aa3b4f9657ef2233972dc00b1fa5af1d8e4"
+    },
+    {
+      "path": "docs/vendor/katex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e2218e272329ba2ddfc73af4554134519bb2f8be",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/e2218e272329ba2ddfc73af4554134519bb2f8be"
+    },
+    {
+      "path": "docs/vendor/katex/auto-render.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46d62af28dbd70619664ef4a1b31582aa6245432",
+      "size": 3481,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/46d62af28dbd70619664ef4a1b31582aa6245432"
+    },
+    {
+      "path": "docs/vendor/katex/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6c34ee0d0acfaf9a8bf02b5557e89491ccf9e42b",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/6c34ee0d0acfaf9a8bf02b5557e89491ccf9e42b"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_AMS-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0acaaff03d4bb7606de02a827aeee338e5a86910",
+      "size": 28076,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0acaaff03d4bb7606de02a827aeee338e5a86910"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Main-Bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab2ad21da6fbe6c171bb869240954d0ead8f68fd",
+      "size": 25324,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ab2ad21da6fbe6c171bb869240954d0ead8f68fd"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Main-Italic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b50920e138807f385d0b0359f4f0f09891f18406",
+      "size": 16988,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/b50920e138807f385d0b0359f4f0f09891f18406"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Main-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb24a7ba282b03d830fa6c63ee897d92a5188736",
+      "size": 26272,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/eb24a7ba282b03d830fa6c63ee897d92a5188736"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Math-BoldItalic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29657023adc09956249f6295746c8ce4469b50d3",
+      "size": 16400,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/29657023adc09956249f6295746c8ce4469b50d3"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Math-Italic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "215c143fd7805a5c2b222bd7892a1a2b09610020",
+      "size": 16440,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/215c143fd7805a5c2b222bd7892a1a2b09610020"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Size1-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5a8462fbfe2c39a7c1857b9e296e62500a8a8a5",
+      "size": 5468,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/c5a8462fbfe2c39a7c1857b9e296e62500a8a8a5"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Size2-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1bccfe2403a4ed770c1697ae7c15b9e1cd9bc4e",
+      "size": 5208,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/e1bccfe2403a4ed770c1697ae7c15b9e1cd9bc4e"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Size3-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "249a28662218a7a17ad8bd1fe072169ecb666a49",
+      "size": 3624,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/249a28662218a7a17ad8bd1fe072169ecb666a49"
+    },
+    {
+      "path": "docs/vendor/katex/fonts/KaTeX_Size4-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "680c13085076a2f6c5a7e695935ec3f21cddb65f",
+      "size": 4928,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/680c13085076a2f6c5a7e695935ec3f21cddb65f"
+    },
+    {
+      "path": "docs/vendor/katex/katex.min.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "975b82807fb366759e3fd7b9f9b8ab0cb9e9d73d",
+      "size": 23335,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/975b82807fb366759e3fd7b9f9b8ab0cb9e9d73d"
+    },
+    {
+      "path": "docs/vendor/katex/katex.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b69360c5e22aa9e9351b67fdfbe99ae7a27d09a5",
+      "size": 275414,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/b69360c5e22aa9e9351b67fdfbe99ae7a27d09a5"
+    },
+    {
+      "path": "media",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c085e863406ca64db136427492ce99764b266b67",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/c085e863406ca64db136427492ce99764b266b67"
+    },
+    {
+      "path": "media/x",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "55e43e6ecf11112e0c299767f1226249c0695dd7",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/55e43e6ecf11112e0c299767f1226249c0695dd7"
+    },
+    {
+      "path": "media/x/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2625630e4c15225116516407470fd6e4ebf77bff",
+      "size": 3342,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/2625630e4c15225116516407470fd6e4ebf77bff"
+    },
+    {
+      "path": "media/x/affine-hit-law-depth-15-16-20-30.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9005358bd4ba4398feb2eb893dc84f8f631c5212",
+      "size": 266115,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/9005358bd4ba4398feb2eb893dc84f8f631c5212"
+    },
+    {
+      "path": "media/x/blank-plane-to-p104.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6cab839c4e7661e7b8a923da207624371601231",
+      "size": 401043,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/d6cab839c4e7661e7b8a923da207624371601231"
+    },
+    {
+      "path": "media/x/first-contact-coupling.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907ba377552533bff221d1aad35cf56b37702659",
+      "size": 263230,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/907ba377552533bff221d1aad35cf56b37702659"
+    },
+    {
+      "path": "media/x/global-map-to-22-rays.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54fc90de73e6e9b972dce12529f2035ff1537a78",
+      "size": 663702,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/54fc90de73e6e9b972dce12529f2035ff1537a78"
+    },
+    {
+      "path": "media/x/one-black-q-7-7.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1e523080eb2145e40e3616302881c7514d87c58",
+      "size": 162219,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/d1e523080eb2145e40e3616302881c7514d87c58"
+    },
+    {
+      "path": "media/x/ordinary-p61-depth-induction.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd79243741b42e3a77676521d53f7d8a3c21eb58",
+      "size": 866627,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/bd79243741b42e3a77676521d53f7d8a3c21eb58"
+    },
+    {
+      "path": "media/x/reverse-highway-phase-72.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9582ee65ae2c5f1b3c3be1e0a460bc1f588698fd",
+      "size": 201962,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/9582ee65ae2c5f1b3c3be1e0a460bc1f588698fd"
+    },
+    {
+      "path": "media/x/scattering-all-22.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbe5d983b2848ef0d6a90e840ea3e28bd49eac74",
+      "size": 581366,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/bbe5d983b2848ef0d6a90e840ea3e28bd49eac74"
+    },
+    {
+      "path": "media/x/stage-03-04-boundary-p61.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86a2087625b5c7dca15fe26ce58ee4bfc775ea98",
+      "size": 1234368,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/86a2087625b5c7dca15fe26ce58ee4bfc775ea98"
+    },
+    {
+      "path": "one_black",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "329b9d0b562641d6fe614b2fb4f02eac31de20b4",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/329b9d0b562641d6fe614b2fb4f02eac31de20b4"
+    },
+    {
+      "path": "one_black/PROOF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4da60ceb831d3cb30769e1479535991f5d4b4dc9",
+      "size": 9908,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/4da60ceb831d3cb30769e1479535991f5d4b4dc9"
+    },
+    {
+      "path": "one_black/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a54cf1e47fd5f7e6e24091aac388d44b24550c86",
+      "size": 1826,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/a54cf1e47fd5f7e6e24091aac388d44b24550c86"
+    },
+    {
+      "path": "one_black/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eae8feda83cbdc90450db7581da7075f9c8e3e9",
+      "size": 49,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0eae8feda83cbdc90450db7581da7075f9c8e3e9"
+    },
+    {
+      "path": "one_black/check.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d191ea4223a3776da0a9a02d2359b2fbc90dd27",
+      "size": 812,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/9d191ea4223a3776da0a9a02d2359b2fbc90dd27"
+    },
+    {
+      "path": "one_black/langtons_ant",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c06af1cf44d14dfd8eacb182516778449c2ae993",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/c06af1cf44d14dfd8eacb182516778449c2ae993"
+    },
+    {
+      "path": "one_black/langtons_ant/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9af30e21b6890882b55c1ea62526951ce1846e56",
+      "size": 74,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/9af30e21b6890882b55c1ea62526951ce1846e56"
+    },
+    {
+      "path": "one_black/langtons_ant/highway.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45e19dd897b9d4378a64b5f9a386c403e8e8dec8",
+      "size": 7566,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/45e19dd897b9d4378a64b5f9a386c403e8e8dec8"
+    },
+    {
+      "path": "one_black/langtons_ant/model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd0b2ce6fdbbf8bed6f6efcdbb4deac8f4df4094",
+      "size": 1526,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/cd0b2ce6fdbbf8bed6f6efcdbb4deac8f4df4094"
+    },
+    {
+      "path": "one_black/lean",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6c3ce9216507ae431db0a2efb4a585415aafd8f",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/c6c3ce9216507ae431db0a2efb4a585415aafd8f"
+    },
+    {
+      "path": "one_black/lean/OneBlack.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35a7837215b82ddec6f563d6736cb35bd7d06477",
+      "size": 416,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/35a7837215b82ddec6f563d6736cb35bd7d06477"
+    },
+    {
+      "path": "one_black/lean/OneBlack",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c753c3b8e8953b8c713de27b396b1345cff687c4",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/c753c3b8e8953b8c713de27b396b1345cff687c4"
+    },
+    {
+      "path": "one_black/lean/OneBlack/ActualChecks.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbb191eee078104ef7e284a4c3da1b4895ea459b",
+      "size": 5894,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/cbb191eee078104ef7e284a4c3da1b4895ea459b"
+    },
+    {
+      "path": "one_black/lean/OneBlack/ActualGuards.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b93e5acdd29fc4d346a50f261a4a29c3c91c56b5",
+      "size": 822,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/b93e5acdd29fc4d346a50f261a4a29c3c91c56b5"
+    },
+    {
+      "path": "one_black/lean/OneBlack/ActualHistory.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91f0752a5b5c92570707c8b4eef91f26f9fa0fda",
+      "size": 750,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/91f0752a5b5c92570707c8b4eef91f26f9fa0fda"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Certificates.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8ec19617ee21b5ec9d03d91ff2223a758fead7",
+      "size": 2024,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/8f8ec19617ee21b5ec9d03d91ff2223a758fead7"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Core.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6980a3bce1f5d43abf0120eb7411f8419cb6a7af",
+      "size": 10833,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/6980a3bce1f5d43abf0120eb7411f8419cb6a7af"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Coupling.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c209d03351c45cf5dbe67c21ed489b2e7590970",
+      "size": 2623,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/7c209d03351c45cf5dbe67c21ed489b2e7590970"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Entry.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40989efa58305b7e23224e1e74d8c3fcdfc43bec",
+      "size": 4198,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/40989efa58305b7e23224e1e74d8c3fcdfc43bec"
+    },
+    {
+      "path": "one_black/lean/OneBlack/EntryData.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcf36be905b5e6c46694df9226a5bdf65ae4058a",
+      "size": 2889,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/fcf36be905b5e6c46694df9226a5bdf65ae4058a"
+    },
+    {
+      "path": "one_black/lean/OneBlack/EntryHistory.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af3af1e852ca42f755f12c3912494f64a607e420",
+      "size": 2387,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/af3af1e852ca42f755f12c3912494f64a607e420"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Geometry.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43d7f042ab2813fc0abeaf3e860a2a640e589697",
+      "size": 7917,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/43d7f042ab2813fc0abeaf3e860a2a640e589697"
+    },
+    {
+      "path": "one_black/lean/OneBlack/GuardFacts.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27257c824d03d3c6c4e4ddb6ecfbdbfc8fd2b160",
+      "size": 1499,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/27257c824d03d3c6c4e4ddb6ecfbdbfc8fd2b160"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Highway.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b261ee5cd871f6bc857176f599900a48cc4b4845",
+      "size": 14201,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/b261ee5cd871f6bc857176f599900a48cc4b4845"
+    },
+    {
+      "path": "one_black/lean/OneBlack/HighwayData.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7cf6f692428b456c38de721b76d1c3ac2de0c88",
+      "size": 5809,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f7cf6f692428b456c38de721b76d1c3ac2de0c88"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Induction.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48806459cd3c0b81f3ac227df04e18f0bc1bffe6",
+      "size": 8321,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/48806459cd3c0b81f3ac227df04e18f0bc1bffe6"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Ordinary.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec09527d8c6849942e80efab5cc0e012083a47ef",
+      "size": 3741,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ec09527d8c6849942e80efab5cc0e012083a47ef"
+    },
+    {
+      "path": "one_black/lean/OneBlack/OrdinaryCorridor.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "824528f9b97aed32dec3a8fa34e7e569b2bf5a04",
+      "size": 4509,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/824528f9b97aed32dec3a8fa34e7e569b2bf5a04"
+    },
+    {
+      "path": "one_black/lean/OneBlack/OrdinaryGeometry.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b1f9eeb90662a9c334ab5e1e654f16b793690dd",
+      "size": 2098,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/4b1f9eeb90662a9c334ab5e1e654f16b793690dd"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Phase.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1ee9abf6502b46d525c64081a0881a6cedae3b6",
+      "size": 10557,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/c1ee9abf6502b46d525c64081a0881a6cedae3b6"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseAlgebra.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3bf224944ded83fe1f8bf3769899e3ee957525d",
+      "size": 7148,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f3bf224944ded83fe1f8bf3769899e3ee957525d"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseArchive.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c6ec4f44f2907d424c42114eac9936df78fc13c",
+      "size": 1423,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/4c6ec4f44f2907d424c42114eac9936df78fc13c"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseChecks.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71b6a0be38df838e8035b86436ae66a7b8ff41e9",
+      "size": 9473,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/71b6a0be38df838e8035b86436ae66a7b8ff41e9"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseForwardAvoid.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab740d7e63d696a572f08b92aa046fdb2354b53e",
+      "size": 773,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ab740d7e63d696a572f08b92aa046fdb2354b53e"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseHit.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba4ccff621b609fa2e1cbddfa267bec6e2a5b165",
+      "size": 806,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ba4ccff621b609fa2e1cbddfa267bec6e2a5b165"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseHitNormal.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08d94eb022c6d6208383221db00008547d086311",
+      "size": 1499,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/08d94eb022c6d6208383221db00008547d086311"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhasePreHit.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6fcc4da2aff422226bdcf42d325133c299364ce",
+      "size": 958,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/d6fcc4da2aff422226bdcf42d325133c299364ce"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseReverse.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29c8e714b1431c7f88fcbaa324df8c6409c91c8f",
+      "size": 9740,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/29c8e714b1431c7f88fcbaa324df8c6409c91c8f"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PhaseTail.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b923e2029daef03049713d8aac1e6b73dbeac7f4",
+      "size": 6629,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/b923e2029daef03049713d8aac1e6b73dbeac7f4"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Prefix.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "589cf311a9741411534cafe241e650e284ee7935",
+      "size": 2510,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/589cf311a9741411534cafe241e650e284ee7935"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PrefixData.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb4b6c53266ab0f0c3bfc996ce00996957ba70a9",
+      "size": 9130,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/bb4b6c53266ab0f0c3bfc996ce00996957ba70a9"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PrefixLeaf.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a432e8d7d60d053ad585f200663af1f6aa04e988",
+      "size": 223,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/a432e8d7d60d053ad585f200663af1f6aa04e988"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Pristine.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41593b36a568d6e7bee681192c17ef1bcc026ecc",
+      "size": 25819,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/41593b36a568d6e7bee681192c17ef1bcc026ecc"
+    },
+    {
+      "path": "one_black/lean/OneBlack/PristineChecks.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8e4cf24c7794f104abd93c8e66c4c1cb3d2bcd2",
+      "size": 3873,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f8e4cf24c7794f104abd93c8e66c4c1cb3d2bcd2"
+    },
+    {
+      "path": "one_black/lean/OneBlack/RayGeometry.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7205ce0a54d46e2927e006026de2857dcdc9aa3a",
+      "size": 4266,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/7205ce0a54d46e2927e006026de2857dcdc9aa3a"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Rays.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9213642c78e3cb39fe93fd1f7cf7952b489dd81",
+      "size": 3895,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/d9213642c78e3cb39fe93fd1f7cf7952b489dd81"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Scattering.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "596681c19881df52eeb5122a1546c2a8251f3d14",
+      "size": 2742,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/596681c19881df52eeb5122a1546c2a8251f3d14"
+    },
+    {
+      "path": "one_black/lean/OneBlack/ScatteringLeaf.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b75a7c0d659a54f8f731104dfab212c06ce6448",
+      "size": 245,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/9b75a7c0d659a54f8f731104dfab212c06ce6448"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Semantics.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ce1b20ab130a4ffe195cbbb2f8233191d7f0b32",
+      "size": 7768,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/2ce1b20ab130a4ffe195cbbb2f8233191d7f0b32"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Terminal.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9837693e3a97af7f608bee6d468d9f4ff43fa50",
+      "size": 8153,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f9837693e3a97af7f608bee6d468d9f4ff43fa50"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Universal.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2833d90a157c36017f0046e19f6c636e095e7883",
+      "size": 5651,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/2833d90a157c36017f0046e19f6c636e095e7883"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Verified.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b73e928c15b7e13793df1f1520ac4fd9d9ede80",
+      "size": 273,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0b73e928c15b7e13793df1f1520ac4fd9d9ede80"
+    },
+    {
+      "path": "one_black/lean/OneBlack/Xor.lean",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7548a5fa0fe6d945711eac7a86d58c36d9f382b6",
+      "size": 12426,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/7548a5fa0fe6d945711eac7a86d58c36d9f382b6"
+    },
+    {
+      "path": "one_black/lean/generate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0802be459cfe5e389f0a1e5e9efbafa5de66a5bd",
+      "size": 9527,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0802be459cfe5e389f0a1e5e9efbafa5de66a5bd"
+    },
+    {
+      "path": "one_black/lean/lakefile.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75e5f930178dd4920ebf3fd4cc6c3c70d7179a3c",
+      "size": 99,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/75e5f930178dd4920ebf3fd4cc6c3c70d7179a3c"
+    },
+    {
+      "path": "one_black/lean/lean-toolchain",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af9e5d339aeb37e4e6ba2603fb873e637678e304",
+      "size": 25,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/af9e5d339aeb37e4e6ba2603fb873e637678e304"
+    },
+    {
+      "path": "preprint",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "56d22b1a02612895ed20e6745f25824c1f7f9b41",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/56d22b1a02612895ed20e6745f25824c1f7f9b41"
+    },
+    {
+      "path": "preprint/Every-One-Black-Cell-Langton-Ant-Reaches-the-Period-104-Highway-A-Lean-Checked-Proof.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ce5ad466b9c6145ae72658154dbdcc717754fc9",
+      "size": 12076199,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/6ce5ad466b9c6145ae72658154dbdcc717754fc9"
+    },
+    {
+      "path": "preprint/LITERATURE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ebba7b4cf37fe717b134d66e0a11c9da44a18fa",
+      "size": 5339,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/2ebba7b4cf37fe717b134d66e0a11c9da44a18fa"
+    },
+    {
+      "path": "preprint/Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f16890e5f9a1bf06c6d904b0aee1fe71c10cb23",
+      "size": 575,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0f16890e5f9a1bf06c6d904b0aee1fe71c10cb23"
+    },
+    {
+      "path": "preprint/OUTLINE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51f3b0fdf23fc8235f2e0f2eb1635e97cf67ef1d",
+      "size": 19515,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/51f3b0fdf23fc8235f2e0f2eb1635e97cf67ef1d"
+    },
+    {
+      "path": "preprint/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a3b0465ae7f85b397c66501f8448b3a0b52703c",
+      "size": 2815,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/8a3b0465ae7f85b397c66501f8448b3a0b52703c"
+    },
+    {
+      "path": "preprint/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b79816f8b8a9f714d5eb2acc8b99bd1a44ba646",
+      "size": 3398,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/3b79816f8b8a9f714d5eb2acc8b99bd1a44ba646"
+    },
+    {
+      "path": "preprint/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a06ee1cf974a24ab32b3f6e51bce0acddbe973f",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/2a06ee1cf974a24ab32b3f6e51bce0acddbe973f"
+    },
+    {
+      "path": "preprint/figures/exceptional",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "29b10412bc2074fdd53e59b8365f06c9d8fbbb2d",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/29b10412bc2074fdd53e59b8365f06c9d8fbbb2d"
+    },
+    {
+      "path": "preprint/figures/exceptional/phase-72-depth-15-history.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69cadfc5a70c6d958e9cbd562918cb8978bf2a97",
+      "size": 598639,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/69cadfc5a70c6d958e9cbd562918cb8978bf2a97"
+    },
+    {
+      "path": "preprint/figures/scattering",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "818c0c0f8946ed4239167ce4b602857a3ca349ea",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/818c0c0f8946ed4239167ce4b602857a3ca349ea"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-13-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b369d9b8b204b67802560a68dd867a78480ec22",
+      "size": 414430,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/5b369d9b8b204b67802560a68dd867a78480ec22"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-14-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ca8b4d2d3030fed971c14dc57211870cf97d7f3",
+      "size": 417236,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/5ca8b4d2d3030fed971c14dc57211870cf97d7f3"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-15-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c3b3fdfec1a4897c3d6c0461bb85524d0866915",
+      "size": 388416,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/6c3b3fdfec1a4897c3d6c0461bb85524d0866915"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-27-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "863c9a59ab02822e38e7f763e907d1809336dcd4",
+      "size": 423651,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/863c9a59ab02822e38e7f763e907d1809336dcd4"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-28-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba823fcb8635f38bde2457dd3aab05c5e7b95e48",
+      "size": 455063,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ba823fcb8635f38bde2457dd3aab05c5e7b95e48"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-29-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe9adb7f435b3a0dd8bb7d6cbcacb5de6499d220",
+      "size": 397161,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/fe9adb7f435b3a0dd8bb7d6cbcacb5de6499d220"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-32-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f434ffb0cca912dd324b6d049d665803dd064e45",
+      "size": 501859,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f434ffb0cca912dd324b6d049d665803dd064e45"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-38-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e36bec785feccb7d03fc13c0991adafa08d0990",
+      "size": 435398,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/5e36bec785feccb7d03fc13c0991adafa08d0990"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-45-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42846b823d5706d11f92125c9dfff7077ca3ef25",
+      "size": 376122,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/42846b823d5706d11f92125c9dfff7077ca3ef25"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-46-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6d0921e6d63420881eeede642f779b279f3d06c",
+      "size": 383636,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/c6d0921e6d63420881eeede642f779b279f3d06c"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-47-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "131ad230b148e2176b9adb9fe62ae2dfee0c4519",
+      "size": 383686,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/131ad230b148e2176b9adb9fe62ae2dfee0c4519"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-55-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e50053525da91437ebfe3369e7ecc9d48488da78",
+      "size": 407862,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/e50053525da91437ebfe3369e7ecc9d48488da78"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-56-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a200e15c25338e096bdda48af088aa247a025632",
+      "size": 496852,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/a200e15c25338e096bdda48af088aa247a025632"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-57-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85ddbaf5e9238fc1a3a0c423bdbd32901b97367b",
+      "size": 383041,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/85ddbaf5e9238fc1a3a0c423bdbd32901b97367b"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-60-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76d1226525fb0a65924aec79c8f4431a543102e5",
+      "size": 451846,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/76d1226525fb0a65924aec79c8f4431a543102e5"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-61-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afa9238954cc5bfae5714f9823317804f48bc08f",
+      "size": 577190,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/afa9238954cc5bfae5714f9823317804f48bc08f"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-62-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a58f02a67f0193b510b094b7dc535a0abb963f7",
+      "size": 460215,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0a58f02a67f0193b510b094b7dc535a0abb963f7"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-70-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fb315174cce801f317daba0283bb4f7ea3d297a",
+      "size": 516972,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/1fb315174cce801f317daba0283bb4f7ea3d297a"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-71-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b118531448ae85a63039b288edda1caafd0c809",
+      "size": 463510,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/5b118531448ae85a63039b288edda1caafd0c809"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-72-reverse.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ff14169cad29589fc29e07ad342e892ab918870",
+      "size": 589755,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/1ff14169cad29589fc29e07ad342e892ab918870"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-75-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcc94bee42d800dbce8ef157bb5b67307da8e4cb",
+      "size": 463909,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/bcc94bee42d800dbce8ef157bb5b67307da8e4cb"
+    },
+    {
+      "path": "preprint/figures/scattering/phase-89-straight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "656ee48336d8a77ee0145319cfc304c41e85a811",
+      "size": 416663,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/656ee48336d8a77ee0145319cfc304c41e85a811"
+    },
+    {
+      "path": "preprint/figures/stages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4fcd4d91d3c4dacc76b368bef98df49ae2b11b96",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/4fcd4d91d3c4dacc76b368bef98df49ae2b11b96"
+    },
+    {
+      "path": "preprint/figures/stages/stage-01-untouched.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "512a841547bbf2c32a88d455f21944d6da1d5f6d",
+      "size": 453124,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/512a841547bbf2c32a88d455f21944d6da1d5f6d"
+    },
+    {
+      "path": "preprint/figures/stages/stage-02-prefix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "214bbea74f8e9a97ce307ea06c9ce4ff37ad18b4",
+      "size": 366278,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/214bbea74f8e9a97ce307ea06c9ce4ff37ad18b4"
+    },
+    {
+      "path": "preprint/figures/stages/stage-04-finite-history.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba9fc58a6dc309d67bdcf59869e6cc279b3eb27b",
+      "size": 416828,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ba9fc58a6dc309d67bdcf59869e6cc279b3eb27b"
+    },
+    {
+      "path": "preprint/figures/stages/stage-06-global-map.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2090d02e53d7e294e1b70c1667a1971955274e76",
+      "size": 475517,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/2090d02e53d7e294e1b70c1667a1971955274e76"
+    },
+    {
+      "path": "preprint/paper.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "474beec25da3068fc3edbde1a48e1fb71efbc908",
+      "size": 43183,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/474beec25da3068fc3edbde1a48e1fb71efbc908"
+    },
+    {
+      "path": "preprint/references.bib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f2b942e0f0642e8182e33f546884ce1dcd34b86",
+      "size": 3187,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0f2b942e0f0642e8182e33f546884ce1dcd34b86"
+    },
+    {
+      "path": "preprint/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "edae51ee2747c79945fc1d33b4d88bb6d22146a1",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/edae51ee2747c79945fc1d33b4d88bb6d22146a1"
+    },
+    {
+      "path": "preprint/scripts/export_scattering_panels.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f478711c26c8996c6a743dfa826681edd7abab44",
+      "size": 10313,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/f478711c26c8996c6a743dfa826681edd7abab44"
+    },
+    {
+      "path": "research",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "808a796e3bede12313538ef72152e18d929acd30",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/808a796e3bede12313538ef72152e18d929acd30"
+    },
+    {
+      "path": "research/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee1916eed4d95944be7195f5973ab81e0f6bfc2b",
+      "size": 70,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/ee1916eed4d95944be7195f5973ab81e0f6bfc2b"
+    },
+    {
+      "path": "research/check.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fdabc1b5e5390bb82d71ffe68bb582961445c38",
+      "size": 1769,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/1fdabc1b5e5390bb82d71ffe68bb582961445c38"
+    },
+    {
+      "path": "research/renewal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0db2fc23e75dfd5709af023493456dd8b0fc97bb",
+      "size": 3984,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/0db2fc23e75dfd5709af023493456dd8b0fc97bb"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5c259f2e48a063a8afd20a4ec25f2a35d13dc0c8",
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/trees/5c259f2e48a063a8afd20a4ec25f2a35d13dc0c8"
+    },
+    {
+      "path": "scripts/export_x_gifs.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "994b3a3ec1fdcef9fa9cf39a8e6ef0a9643e8fa5",
+      "size": 31715,
+      "url": "https://api.github.com/repos/kehao95/langtons-ant-core/git/blobs/994b3a3ec1fdcef9fa9cf39a8e6ef0a9643e8fa5"
+    }
+  ],
+  "truncated": false
+}

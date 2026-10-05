@@ -1,0 +1,13 @@
+{
+  "command": [
+    "python3",
+    "scripts/regenerate_data.py",
+    "--output",
+    "/tmp/langton-audit.xPW28y/maintained-regeneration",
+    "--calc",
+    "/tmp/langton-audit.xPW28y/maintained-calc"
+  ],
+  "exit_code": 0,
+  "elapsed_seconds": 3.497,
+  "log": "maintained-regeneration.log"
+}
