@@ -1,43 +1,51 @@
-# Why two black cells are enough to make this difficult
+# How the two-cell proof works
 
-The theorem concerns the board at the start. The ant subsequently paints thousands of cells and can build a long trail of old debris. When it eventually meets the second initially black cell, its surroundings can therefore be quite complicated.
+Langton's ant follows a tiny rule: turn right on white, turn left on black, flip the cell, and move forward. The theorem says that, starting with at most two black cells on an otherwise white infinite grid, the ant eventually follows a repeating 104-step pattern along a diagonal. The cells can be anywhere.
 
-A proof for one initially black cell cannot simply be applied twice: the state at the second encounter usually has many black cells.
+The hard part is what happens before that repetition begins. The ant can paint a large area and travel a long way before it reaches the second initially black cell. At that encounter, the board may already contain thousands of black cells. A theorem about starting with one black cell therefore cannot simply be applied a second time.
 
-## An infinite grid needs an infinite argument
+## How a finite proof covers an infinite grid
 
-Checking every pair of cells in a large box would leave all pairs outside that box unanswered. Even a very long simulation would leave open a late encounter with a distant cell.
+There are infinitely many ways to place the two cells. The proof organizes them into families whose members share a common structure. Within a family, a number describes the length of a repeating stretch of highway. In some families, two lengths can vary independently.
 
-The proof instead describes infinite collections of initial boards using a finite set of families. A family parameter measures how much longer a highway corridor is. Two parameters allow two lengths to vary independently. The checker verifies a representative together with geometric conditions that justify every larger member.
+The proof checks a starting member and proves a rule for extending it. That rule can be applied again and again, so it covers every larger length. This is how a finite collection of calculations supports a statement about cells a million squares apart, or farther still.
 
-## Stretching the journey
+## Lengthen a repeating stretch
 
-Imagine the ant moving along a repeating highway between two regions of debris. Put one more 104-update piece into that stretch. The corridor lemma states exactly how the altered journey follows the original one: each relevant crossing includes the inserted piece, and the surrounding states agree in specified regions, with the appropriate translation and time delay.
+Imagine the ant traveling along a repeating highway between two regions it has already painted. Insert one more 104-step piece into that stretch. The proof must explain how this altered route connects to the rest of the journey.
 
-The proof checks the board agreements needed for that statement. A repeating position trace alone would not suffice, because a changed cell color could change the next turn.
+The corridor lemma answers that question. Each relevant crossing includes the extra piece. The journey before and after the crossing still matches the original journey in the required regions, with a shift in position and a delay in time. The proof checks the cell colors as well as the ant's route, because a different color would change its next turn.
 
-The succession lemmas show that the conditions survive lengthening. Induction therefore gives a result for every added length. The formal development covers the required single corridors, perpendicular pairs and parallel pairs, including back-and-forth travel.
+The next step is showing that the same conditions hold after the extension. The argument can then be repeated for every longer corridor. It also accounts for journeys back and forth and for two corridors that run parallel or meet at right angles.
 
-This is how a finite representative can answer questions about cells a million squares apart, or farther still.
+## Find every place the second cell can matter
 
-## Accounting for the second cell
+Until the ant reads an initially black cell, it follows exactly the walk it would take on a blank board. The proof uses that walk to classify the possible first encounters: an early part of the journey and 22 repeating channels extending into the distance.
 
-Before the first initially black cell is read, the ant follows the blank-board trajectory. Possible first encounters fall into finite prefix cases and 22 infinite affine channels.
+After the first encounter, the question becomes where the second cell can change the journey. It might be near an area already painted, along a corridor, or farther down a highway. These encounters lead to further families of journeys.
 
-After that encounter, the proof asks where the second initially black cell can first affect the run. Its descriptions include cells near debris, cells along a corridor, and cells on a later tail. Each relevant case belongs to a checked child family. A first-read/coupling argument deals with an initial cell that is never encountered.
+The classification must cover every possible encounter for every corridor length. The proof establishes that coverage, connecting the checked cases to all possible placements. It also handles a cell that the ant never reaches: an unread cell cannot change any of the ant's turns.
 
-The important final step is proving that these descriptions cover every relevant placement at every family depth. Lean verifies that coverage argument, so the result does not depend on extending an experimental trend beyond the checked range.
+## Show that repetition continues forever
 
-## Why the final repetition lasts
+Finding a repeated segment is the beginning of the final argument. To prove that the repetition lasts, the proof compares the cells in a segment with those in its shifted successor.
 
-A highway certificate compares one period with its translated successor in a half-plane. The ant's period lies in that region, and the region is preserved in the direction of travel. Coupling and induction prove that the translated observations continue forever.
+The comparison takes place on one side of a straight line, a region called a half-plane. The ant stays in that region during the segment, and the direction of travel preserves the agreement needed for the next segment. Applying the argument repeatedly proves that the same movement and encountered colors continue for every future cycle.
 
-The conclusion concerns position, heading and the color read. Old debris may remain behind. The exact turn word of the familiar blank-start highway is identified by the external computations and is not an extra conclusion of the current Lean declaration.
+## What the theorem says
 
-## What is new, and what came earlier
+After some finite time, the ant's position, facing direction, and the color it reads repeat every 104 steps, with its position advancing two rows and two columns along one of the four diagonals. The ant may leave old debris behind and keep adding to its painted trail.
 
-The contribution here is the corridor calculus together with a complete classification of second-cell encounters for the unrestricted two-cell case. Half-plane certificates, translating highways, engineered successful seeds and prior one-cell work provide context and foundations. Hao Ke's unrestricted one-black-cell theorem is acknowledged in [ACKNOWLEDGEMENTS.md](../ACKNOWLEDGEMENTS.md).
+The formal statement specifies that repetition and advance. It does not specify the exact sequence of turns in the familiar highway from an all-white start; identification of that sequence comes from separate computational checks. It also does not assert that 104 is the shortest possible period.
 
-The work gives a restricted theorem about the classical rule. It does not establish convergence for all finite initial boards, or prove that the same classification extends to three initial cells. The [literature assessment](LITERATURE_REVIEW.md) explains those boundaries.
+The theorem covers zero, one, or two initially black cells. The question for arbitrary finite initial patterns, including a general guarantee for three cells, remains open.
 
-For exact mathematical statements and source names, read the [proof map](PROOF_MAP.md). For compiler trust, read [TRUST.md](../TRUST.md).
+## The contribution and its context
+
+The central ideas are the rules for extending corridors and the complete classification of second-cell encounters. Together, they settle the two-cell case without any restriction on cell placement or the ant's starting position and direction.
+
+[Hao Ke's earlier one-black-cell theorem](../ACKNOWLEDGEMENTS.md) is the closest predecessor. Translating highways, half-plane arguments, and constructions of successful starting patterns provide further context. To our knowledge, the unrestricted two-black-cell case has not previously been proved. The [research review](LITERATURE_REVIEW.md) discusses the earlier work.
+
+Lean checks the mathematical arguments in this development. The finite calculations run as compiled Lean programs, so accepting their results also relies on Lean's compiler and runtime. The [verification report](../AUDIT.md) documents the checks; the [trust explanation](../TRUST.md) gives the technical details.
+
+For the mathematical statements and their Lean source locations, see the [proof map](PROOF_MAP.md).

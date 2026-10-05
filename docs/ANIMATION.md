@@ -1,6 +1,6 @@
 # Two-cell animation
 
-The README animation shows three actual classical Langton-ant simulations. All begin at `(0, 0)` facing north, with every unlisted cell white:
+The animation follows three ants from different two-cell starting arrangements into repeating diagonal motion. Each ant starts at `(0, 0)` facing north, on an otherwise white grid:
 
 | Panel | Initial black cells |
 |---|---|
@@ -8,11 +8,11 @@ The README animation shows three actual classical Langton-ant simulations. All b
 | Across the grid | `(-6, 4)`, `(5, -3)` |
 | Another arrangement | `(6, -4)`, `(-10, 0)` |
 
-North points upward. Each update reads the current cell, turns right on white or left on black, flips that cell, and advances. The teal arrow marks the ant's arrival heading; teal outlines identify the initial cell locations while they are visible. An outline can remain after the cell has been painted white.
+North points upward. Each ant turns right on white or left on black, flips the cell, and moves forward. The teal arrow shows its position and facing direction. Teal outlines mark where the two black cells began, even after the ant has changed their colors.
 
-The animation samples early steps, then exploration, then a close-up starting at update 35,000. The final camera is fixed for each panel. Consequently its diagonal progress can be seen across successive 104-update periods. Sampling changes between scenes; the animation is not played at a uniform number of updates per second.
+First you see the early steps, then a later part of the exploration, and finally a close-up beginning at step 35,000. The animation jumps ahead between scenes. In the close-up, the camera stays still while the ant advances along its highway, one 104-step cycle at a time.
 
-The GIF is a finite illustration. Its small simulator, renderer and observed repetitions are outside the proof dependency graph. The generator checks repetition in the displayed late window, but does not use that finite test to assert permanence. The theorem and its soundness proofs establish the unrestricted, all-future conclusion.
+These three examples illustrate the theorem. The proof explains why the eventual repetition lasts forever and covers every placement of up to two initial black cells. The animation's simulator is separate from that proof.
 
 ## Regenerate
 
