@@ -40,7 +40,7 @@ Install [elan](https://github.com/leanprover/elan) and a working native C compil
 git clone https://github.com/imfinn/langton-two-black.git
 cd langton-two-black
 elan toolchain install leanprover/lean4:v4.30.0
-./scripts/validate.sh --clean
+bash ./scripts/validate.sh --clean
 ```
 
 This builds the proof from source, prints the actual axioms of `theoremA`, and runs the mutation tests. The proof uses **Lean 4.30.0, core/Std, and no external Lean packages**. The audited clean build took about 91 minutes on the documented Mac; other machines will differ.

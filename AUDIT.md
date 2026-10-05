@@ -155,4 +155,4 @@ A limited primary-source search inspected Hao Ke's pinned one-black development 
 
 ## Reproduce
 
-Use `./scripts/validate.sh --clean`, or the explicit commands in `REPRODUCIBILITY.md`. The theorem, axiom report and test modules are all available as source. The dated audit logs document this run; third parties should generate and inspect their own.
+Use `bash ./scripts/validate.sh --clean`, or the explicit commands in `REPRODUCIBILITY.md`. The theorem, axiom report and test modules are all available as source. The dated audit logs document this run; third parties should generate and inspect their own.

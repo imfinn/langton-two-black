@@ -24,7 +24,7 @@ A fresh source build starts with no project compiled artifacts. `lake clean` rem
 The complete convenience command adds scans, records logs under an ignored local directory, and checks the final axiom counts:
 
 ```sh
-./scripts/validate.sh --clean
+bash ./scripts/validate.sh --clean
 ```
 
 Without `--clean`, it resumes/reuses the current build. The supplied audit evidence is never an input to the validation script.
