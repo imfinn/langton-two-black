@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-10-05T22:19:43.810092+00:00",
+  "repository": "https://github.com/imfinn/langton-two-black",
+  "verified_publication_commit": "26b69dfbef2fa6c39b1082f378085727cd2e7814",
+  "compared_local_source_commit": "05d6619123d06c936df45099f9a48deb4bbd7f84",
+  "identical_git_tree": "45f088125483235355764ad438616a9bb2100731",
+  "tracked_files_compared": 238,
+  "original_lean_source_files_preserved": 89,
+  "original_toolchain_and_lake_configuration_files_preserved": 2,
+  "original_manuscript_files_preserved": 1,
+  "original_file_sha256_mismatches": [],
+  "unwanted_build_or_python_cache_files": [],
+  "scope": "All published paths, blob contents and modes compared with the prepared source commit. Original proof, configuration and paper SHA-256 values checked directly from the published Git objects. No second full Lean build and no completed GitHub Actions run are claimed. This report is added after the verified publication commit."
+}
