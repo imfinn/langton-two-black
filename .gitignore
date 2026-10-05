@@ -1,0 +1,20 @@
+# Lean build products
+.lake/
+*.olean
+*.ilean
+*.c.o
+*.o
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+# Optional native checkers and transient dumps
+/code/calc
+/code/calc_v2
+/code/calc_cov
+/code/indep
+/code/*dump.txt
+/code/*.out
+# Local reruns; dated evidence remains tracked
+/audit/local*/
+.DS_Store
