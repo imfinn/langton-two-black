@@ -1,0 +1,31 @@
+import TwoBlack.PartCheck
+import TwoBlack.Check2Par
+#print axioms TwoBlack.agree_run
+#print axioms TwoBlack.halfplane_forever
+#print axioms TwoBlack.reaches_of_certificate
+#print axioms TwoBlack.corridor
+#print axioms TwoBlack.corridor_succ
+#print axioms TwoBlack.corridor_family
+#print axioms TwoBlack.FState.step_toState
+#print axioms TwoBlack.frun_toState
+#print axioms TwoBlack.agreeB_sound
+#print axioms TwoBlack.check1_sound
+#print axioms TwoBlack.descent
+#print axioms TwoBlack.certB_sound
+#print axioms TwoBlack.check0_sound
+#print axioms TwoBlack.perp_succ
+#print axioms TwoBlack.perp_family
+#print axioms TwoBlack.check2p_sound
+#print axioms TwoBlack.par_succ
+#print axioms TwoBlack.par_family
+#print axioms TwoBlack.check2par_sound
+#print axioms TwoBlack.perpOK_sound
+#print axioms TwoBlack.parOK_sound
+#print axioms TwoBlack.perpCovered_sound
+#print axioms TwoBlack.parCovered_sound
+#print axioms TwoBlack.StepHyp.step_first
+#print axioms TwoBlack.StepHyp.step_new
+#print axioms TwoBlack.step_chain
+#print axioms TwoBlack.unroll
+#print axioms TwoBlack.blank_facts
+#print axioms TwoBlack.checkPart_sound
