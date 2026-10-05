@@ -9,7 +9,8 @@
 > **There is no bound on how far apart the cells may be.**
 
 ```lean
-theorem TwoBlack.theoremA : ∀ s, AtMostTwoBlack s → ReachesP104 s
+theorem TwoBlack.theoremA :
+  ∀ s, AtMostTwoBlack s → ReachesP104 s
 ```
 
 [The theorem](lean/TwoBlack/Main.lean) · [Original manuscript](paper/TWO_BLACK_CELLS.md) · [Independent audit](AUDIT.md) · [Literature assessment](docs/LITERATURE_REVIEW.md)
