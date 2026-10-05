@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-05T21:30:31.942612+00:00",
+  "scope": "publication documentation, animation and unchanged proof-source preservation; no second full Lean build",
+  "simulation_comparisons": [
+    {
+      "title": "Near the ant",
+      "sampled_states_compared": 101,
+      "all_boards_and_observations_match": true
+    },
+    {
+      "title": "Across the grid",
+      "sampled_states_compared": 101,
+      "all_boards_and_observations_match": true
+    },
+    {
+      "title": "Another arrangement",
+      "sampled_states_compared": 101,
+      "all_boards_and_observations_match": true
+    }
+  ],
+  "gif_decoded_frames_match_renderer": 101,
+  "gif_bytes": 238751,
+  "original_lean_and_configuration_files_preserved": 91,
+  "original_paper_files_preserved": 1,
+  "python_syntax_files": 14,
+  "manual_ci_workflow_syntax_checked": true,
+  "local_document_links_checked": 34,
+  "broken_document_links": []
+}
