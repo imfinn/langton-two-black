@@ -1,0 +1,131 @@
+⚠ [149/249] Replayed TwoBlack.Perp
+warning: TwoBlack/Perp.lean:27:40: unused variable `gap`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: TwoBlack/Perp.lean:70:70: unused variable `hDC`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [150/249] Built TwoBlack.Chan.Data0 (40s)
+✔ [151/249] Built TwoBlack.Chan.Data1 (21s)
+✔ [152/249] Built TwoBlack.Chan.Data2 (174s)
+✔ [153/249] Built TwoBlack.Chan.Data3 (23s)
+✔ [154/249] Built TwoBlack.Chan.Data4 (224s)
+✔ [155/249] Built TwoBlack.Chan.Data5 (197s)
+✔ [156/249] Built TwoBlack.Chan.Data6 (55s)
+✔ [157/249] Built TwoBlack.Chan.Data7 (52s)
+✔ [158/249] Built TwoBlack.Chan.Data8 (250s)
+✔ [159/249] Built TwoBlack.Chan.Data9 (96s)
+✔ [160/249] Built TwoBlack.Chan.Data10 (102s)
+✔ [161/249] Built TwoBlack.Chan.Data11 (152s)
+✔ [165/249] Built TwoBlack.Chan.Data15 (286s)
+✔ [169/249] Built TwoBlack.Chan.Data19 (988s)
+✔ [172/249] Built TwoBlack.Perp:c.o (5.5s)
+✔ [173/249] Built TwoBlack.Chan.Data0:c.o (17s)
+✔ [174/249] Built TwoBlack.Chan.Data1:c.o (17s)
+✔ [175/249] Built TwoBlack.Chan.Data2:c.o (29s)
+✔ [176/249] Built TwoBlack.Chan.Data3:c.o (18s)
+✔ [177/249] Built TwoBlack.Chan.Data4:c.o (30s)
+✔ [178/249] Built TwoBlack.Chan.Data5:c.o (45s)
+✔ [179/249] Built TwoBlack.Chan.Data6:c.o (34s)
+✔ [180/249] Built TwoBlack.Chan.Data7:c.o (32s)
+✔ [181/249] Built TwoBlack.Chan.Data8:c.o (26s)
+✔ [182/249] Built TwoBlack.Chan.Data9:c.o (23s)
+✔ [183/249] Built TwoBlack.Chan.Data10:c.o (22s)
+✔ [184/249] Built TwoBlack.Chan.Data11:c.o (31s)
+✔ [185/249] Built TwoBlack.Chan.Data12:c.o (31s)
+✔ [186/249] Built TwoBlack.Chan.Data13:c.o (23s)
+✔ [187/249] Built TwoBlack.Chan.Data14:c.o (22s)
+✔ [188/249] Built TwoBlack.Chan.Data15:c.o (67s)
+✔ [189/249] Built TwoBlack.Chan.Data16:c.o (30s)
+✔ [190/249] Built TwoBlack.Chan.Data17:c.o (36s)
+✔ [191/249] Built TwoBlack.Chan.Data18:c.o (43s)
+✔ [192/249] Built TwoBlack.Chan.Data19:c.o (110s)
+✔ [193/249] Built TwoBlack.Chan.Data20:c.o (25s)
+✔ [194/249] Built TwoBlack.Chan.Data21:c.o (17s)
+✔ [195/249] Built TwoBlack.Perp:dynlib (843ms)
+✔ [196/249] Built TwoBlack.Chan.Data0:dynlib (68ms)
+✔ [197/249] Built TwoBlack.Chan.Data1:dynlib (81ms)
+✔ [198/249] Built TwoBlack.Chan.Data2:dynlib (87ms)
+✔ [199/249] Built TwoBlack.Chan.Data3:dynlib (69ms)
+✔ [200/249] Built TwoBlack.Chan.Data4:dynlib (109ms)
+✔ [201/249] Built TwoBlack.Chan.Data5:dynlib (114ms)
+✔ [202/249] Built TwoBlack.Chan.Data6:dynlib (106ms)
+✔ [203/249] Built TwoBlack.Chan.Data7:dynlib (99ms)
+✔ [204/249] Built TwoBlack.Chan.Data8:dynlib (82ms)
+✔ [205/249] Built TwoBlack.Chan.Data9:dynlib (79ms)
+✔ [206/249] Built TwoBlack.Chan.Data10:dynlib (88ms)
+✔ [207/249] Built TwoBlack.Chan.Data11:dynlib (97ms)
+✔ [208/249] Built TwoBlack.Chan.Data12:dynlib (98ms)
+✔ [209/249] Built TwoBlack.Chan.Data13:dynlib (85ms)
+✔ [210/249] Built TwoBlack.Chan.Data14:dynlib (85ms)
+✔ [211/249] Built TwoBlack.Chan.Data15:dynlib (172ms)
+✔ [212/249] Built TwoBlack.Chan.Data16:dynlib (105ms)
+✔ [213/249] Built TwoBlack.Chan.Data17:dynlib (100ms)
+✔ [214/249] Built TwoBlack.Chan.Data18:dynlib (134ms)
+✔ [215/249] Built TwoBlack.Chan.Data19:dynlib (249ms)
+✔ [216/249] Built TwoBlack.Chan.Data20:dynlib (85ms)
+✔ [217/249] Built TwoBlack.Chan.Data21:dynlib (73ms)
+✔ [218/249] Built TwoBlack.Par (4.3s)
+✔ [219/249] Built TwoBlack.Check2 (1.6s)
+⚠ [220/249] Built TwoBlack.Chan.All (3.7s)
+warning: TwoBlack/Chan/All.lean:29:300: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [chanTable, List.all_cons, List.all_nil, chan0_ok, chan1_ok, chan2_ok, chan3_ok,
+  ̲  ̲ ̲ ̲chan4_ok, chan5_ok, chan6_ok, chan7_ok, chan8_ok, chan9_ok, chan10_ok, chan11_ok, chan12_ok,
+  ̲  ̲ ̲ ̲chan13_ok, chan14_ok, chan15_ok, chan16_ok, chan17_ok, chan18_ok, chan19_ok, chan20_ok,
+  ̲  ̲ ̲ ̲chan21_ok, Bool.and_true,̵ ̵B̵o̵o̵l̵.̵t̵r̵u̵e̵_̵a̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [221/249] Built TwoBlack.Par:c.o (162ms)
+✔ [222/249] Built TwoBlack.Check2:c.o (572ms)
+✔ [223/249] Built TwoBlack.Chan.All:c.o (94ms)
+✔ [224/249] Built TwoBlack.Check2:dynlib (38ms)
+✔ [225/249] Built TwoBlack.Chan.All:dynlib (38ms)
+✔ [226/249] Built TwoBlack.Par:dynlib (40ms)
+✔ [227/249] Built TwoBlack.PerpKids (601ms)
+✔ [228/249] Built TwoBlack.PerpKids:c.o (221ms)
+✔ [229/249] Built TwoBlack.PerpKids:dynlib (37ms)
+✔ [230/249] Built TwoBlack.Check2Par (2.3s)
+✔ [231/249] Built TwoBlack.PerpData (20s)
+✔ [232/249] Built TwoBlack.Check2Par:c.o (421ms)
+✔ [233/249] Built TwoBlack.PerpData:c.o (6.7s)
+✔ [234/249] Built TwoBlack.Check2Par:dynlib (38ms)
+✔ [235/249] Built TwoBlack.PerpData:dynlib (59ms)
+✔ [236/249] Built TwoBlack.ParData (270s)
+✔ [237/249] Built TwoBlack.ParData:c.o (7.3s)
+✔ [238/249] Built TwoBlack.ParData:dynlib (58ms)
+✔ [239/249] Built TwoBlack.Parents.Chunk31 (4491s)
+✔ [240/249] Built TwoBlack.Parents.Chunk31:c.o (23s)
+✔ [241/249] Built TwoBlack.Parents.Chunk31:dynlib (80ms)
+⚠ [242/249] Built TwoBlack.Parents.All (17s)
+warning: TwoBlack/Parents/All.lean:39:432: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.t̵r̵u̵e̵_̵and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_true]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: TwoBlack/Parents/All.lean:39:447: This simp argument is unused:
+  Bool.and_true
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.true_and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_̵t̵r̵u̵e̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [243/249] Built TwoBlack.Parents.All:c.o (104ms)
+✔ [244/249] Built TwoBlack.Parents.All:dynlib (34ms)
+✔ [245/249] Built TwoBlack.Final (492ms)
+✔ [246/249] Built TwoBlack.Final:c.o (60ms)
+✔ [247/249] Built TwoBlack.Final:dynlib (36ms)
+✔ [248/249] Built TwoBlack (465ms)
+Build completed successfully (249 jobs).

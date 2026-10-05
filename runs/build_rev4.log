@@ -1,0 +1,47 @@
+⚠ [56/261] Replayed TwoBlack.Perp
+warning: TwoBlack/Perp.lean:27:40: unused variable `gap`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: TwoBlack/Perp.lean:70:70: unused variable `hDC`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [165/261] Replayed TwoBlack.Parents.All
+warning: TwoBlack/Parents/All.lean:39:432: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.t̵r̵u̵e̵_̵and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_true]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: TwoBlack/Parents/All.lean:39:447: This simp argument is unused:
+  Bool.and_true
+
+Hint: Omit it from the simp argument list.
+  simp only [parentTable, List.all_append, chunk0_ok, chunk1_ok, chunk2_ok, chunk3_ok, chunk4_ok,
+  ̲  ̲ ̲ ̲chunk5_ok, chunk6_ok, chunk7_ok, chunk8_ok, chunk9_ok, chunk10_ok, chunk11_ok, chunk12_ok,
+  ̲  ̲ ̲ ̲chunk13_ok, chunk14_ok, chunk15_ok, chunk16_ok, chunk17_ok, chunk18_ok, chunk19_ok, chunk20_ok,
+  ̲  ̲ ̲ ̲chunk21_ok, chunk22_ok, chunk23_ok, chunk24_ok, chunk25_ok, chunk26_ok, chunk27_ok, chunk28_ok,
+  ̲  ̲ ̲ ̲chunk29_ok, chunk30_ok, chunk31_ok, Bool.and_self, Bool.true_and,̵ ̵B̵o̵o̵l̵.̵a̵n̵d̵_̵t̵r̵u̵e̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [230/261] Replayed TwoBlack.Chan.All
+warning: TwoBlack/Chan/All.lean:29:300: This simp argument is unused:
+  Bool.true_and
+
+Hint: Omit it from the simp argument list.
+  simp only [chanTable, List.all_cons, List.all_nil, chan0_ok, chan1_ok, chan2_ok, chan3_ok,
+  ̲  ̲ ̲ ̲chan4_ok, chan5_ok, chan6_ok, chan7_ok, chan8_ok, chan9_ok, chan10_ok, chan11_ok, chan12_ok,
+  ̲  ̲ ̲ ̲chan13_ok, chan14_ok, chan15_ok, chan16_ok, chan17_ok, chan18_ok, chan19_ok, chan20_ok,
+  ̲  ̲ ̲ ̲chan21_ok, Bool.and_true,̵ ̵B̵o̵o̵l̵.̵t̵r̵u̵e̵_̵a̵n̵d̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✔ [254/261] Built TwoBlack.PartData (11s)
+Build completed successfully (261 jobs).
+
+real	0m12.160s
+user	0m11.472s
+sys	0m0.339s

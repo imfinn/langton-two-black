@@ -1,0 +1,47 @@
+✔ [47/141] Built TwoBlack.TheoremA (955ms)
+✔ [48/141] Built TwoBlack.TheoremA:c.o (106ms)
+✔ [49/141] Built TwoBlack.TheoremA:dynlib (37ms)
+✔ [50/141] Built TwoBlack.Remaining (988ms)
+✔ [51/141] Built TwoBlack.Remaining:c.o (232ms)
+✔ [52/141] Built TwoBlack.Remaining:dynlib (30ms)
+✔ [53/141] Built TwoBlack.Channels (471ms)
+✔ [54/141] Built TwoBlack.Channels:c.o (127ms)
+✔ [55/141] Built TwoBlack.Channels:dynlib (48ms)
+⚠ [56/141] Built TwoBlack.Perp (3.4s)
+warning: TwoBlack/Perp.lean:27:40: unused variable `gap`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: TwoBlack/Perp.lean:70:70: unused variable `hDC`
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+✔ [57/141] Built TwoBlack.Chan.Data21 (48s)
+✔ [58/141] Built TwoBlack.Chan.Data20 (87s)
+✖ [59/141] Building TwoBlack.Chan.Data19 (48s)
+trace: .> LEAN_PATH=/home/claude/work/lean/.lake/build/lib/lean /opt/lean/lean-4.30.0-linux/bin/lean /home/claude/work/lean/TwoBlack/Chan/Data19.lean -o /home/claude/work/lean/.lake/build/lib/lean/TwoBlack/Chan/Data19.olean -i /home/claude/work/lean/.lake/build/lib/lean/TwoBlack/Chan/Data19.ilean -c /home/claude/work/lean/.lake/build/ir/TwoBlack/Chan/Data19.c --setup /home/claude/work/lean/.lake/build/ir/TwoBlack/Chan/Data19.setup.json --json
+error: TwoBlack/Chan/Data19.lean:3731:33: (deterministic) timeout at `elaborator`, maximum number of heartbeats (200000) has been reached
+
+Note: Use `set_option maxHeartbeats <num>` to set the limit.
+
+Hint: Additional diagnostic information may be available using the `set_option diagnostics true` command.
+error: TwoBlack/Chan/Data19.lean:6984:20: Unknown identifier `chan19.kids1.all`
+error: TwoBlack/Chan/Data19.lean:6984:58: Tactic `native_decide` failed: Could not evaluate decidable instance. Error: cannot evaluate code because 'sorryAx' uses 'sorry' and/or contains errors
+error: Lean exited with code 1
+✔ [60/141] Built TwoBlack.Chan.Data17 (142s)
+✔ [61/141] Built TwoBlack.Chan.Data16 (108s)
+✔ [62/141] Built TwoBlack.Chan.Data18 (280s)
+✖ [63/141] Building TwoBlack.Chan.Data15 (42s)
+trace: .> LEAN_PATH=/home/claude/work/lean/.lake/build/lib/lean /opt/lean/lean-4.30.0-linux/bin/lean /home/claude/work/lean/TwoBlack/Chan/Data15.lean -o /home/claude/work/lean/.lake/build/lib/lean/TwoBlack/Chan/Data15.olean -i /home/claude/work/lean/.lake/build/lib/lean/TwoBlack/Chan/Data15.ilean -c /home/claude/work/lean/.lake/build/ir/TwoBlack/Chan/Data15.c --setup /home/claude/work/lean/.lake/build/ir/TwoBlack/Chan/Data15.setup.json --json
+error: TwoBlack/Chan/Data15.lean:516:13: (deterministic) timeout at `whnf`, maximum number of heartbeats (200000) has been reached
+
+Note: Use `set_option maxHeartbeats <num>` to set the limit.
+
+Hint: Additional diagnostic information may be available using the `set_option diagnostics true` command.
+error: TwoBlack/Chan/Data15.lean:4205:20: Unknown identifier `chan15.kids1.all`
+error: TwoBlack/Chan/Data15.lean:4205:58: Tactic `native_decide` failed: Could not evaluate decidable instance. Error: cannot evaluate code because 'sorryAx' uses 'sorry' and/or contains errors
+error: Lean exited with code 1
+✔ [64/141] Built TwoBlack.Chan.Data14 (99s)
+✔ [65/141] Built TwoBlack.Chan.Data13 (150s)
+✔ [66/141] Built TwoBlack.Chan.Data12 (134s)
+✔ [67/141] Built TwoBlack.Chan.Data10 (192s)
+✔ [68/141] Built TwoBlack.Chan.Data11 (296s)
+✔ [69/141] Built TwoBlack.Chan.Data9 (185s)

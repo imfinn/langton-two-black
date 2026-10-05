@@ -1,0 +1,23 @@
+(-33, -7): J=1 D=21 tau=14982 t1=15808 psi=219 children 1062+22 OK exact
+(-34, -7): J=1 D=21 tau=14983 t1=16016 psi=223 children 1104+22 OK exact
+(-34, -6): J=1 D=21 tau=14984 t1=20384 psi=58 children 1823+22 OK exact
+(-34, -8): J=1 D=21 tau=14996 t1=16120 psi=227 children 1124+22 OK exact
+(-35, -8): J=1 D=21 tau=14997 t1=21944 psi=227 children 1888+22 OK exact
+(-35, -7): J=1 D=21 tau=14998 t1=28288 psi=74 children 2726+22 OK exact
+(-33, -8): J=1 D=21 tau=15001 t1=24128 psi=94 children 2148+22 OK exact
+(-34, -9): J=1 D=21 tau=15007 t1=21424 psi=56 children 1941+22 OK exact
+(-33, -11): J=1 D=21 tau=15014 t1=18928 psi=54 children 1597+22 OK exact
+(-34, -11): J=1 D=21 tau=15015 t1=17576 psi=58 children 1409+22 OK exact
+(-34, -10): J=1 D=21 tau=15016 t1=17680 psi=58 children 1434+22 OK exact
+(-34, -12): J=1 D=21 tau=15024 t1=22048 psi=56 children 1933+22 OK exact
+(-35, -12): J=1 D=21 tau=15025 t1=23088 psi=74 children 1920+22 OK exact
+(-35, -11): J=1 D=21 tau=15026 t1=17680 psi=58 children 1430+22 OK exact
+(-33, -12): J=1 D=21 tau=15029 t1=17992 psi=223 children 1336+22 OK exact
+(-33, -13): J=1 D=21 tau=15030 t1=48672 psi=257 children 4174+22 OK exact
+(-34, -13): J=1 D=21 tau=15031 t1=23088 psi=66 children 1964+22 OK exact
+(-32, -13): J=1 D=21 tau=15039 t1=24024 psi=251 children 2166+22 OK exact
+(-32, -14): J=1 D=21 tau=15040 t1=31720 psi=72 children 2721+22 OK exact
+(-33, -14): J=2 D=52 tau=15041 t1=80600 psi=94 children 6931+44 OK exact
+(-32, -12): J=1 D=21 tau=15044 t1=19240 psi=239 children 1553+22 OK exact
+(-31, -13): J=1 D=21 tau=15058 t1=15912 psi=223 children 1068+22 OK exact
+wrote PartData.lean

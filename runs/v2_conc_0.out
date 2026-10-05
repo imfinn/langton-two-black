@@ -1,0 +1,30 @@
+level 1: 2432 concrete single-cell configurations, 22 one-parameter families
+progress: level-1 entries 50, children 80984, fam ok 1100 fail 0, direct ok 79947 fail 0, updates 1482042952
+progress: level-1 entries 100, children 173202, fam ok 2200 fail 0, direct ok 171155 fail 0, updates 4012230976
+progress: level-1 entries 150, children 257115, fam ok 3300 fail 0, direct ok 254050 fail 0, updates 5729654424
+progress: level-1 entries 200, children 346046, fam ok 4400 fail 0, direct ok 341939 fail 0, updates 7551621168
+progress: level-1 entries 250, children 434571, fam ok 5500 fail 0, direct ok 429422 fail 0, updates 9306500944
+progress: level-1 entries 300, children 525878, fam ok 6600 fail 0, direct ok 519679 fail 0, updates 11112508160
+progress: level-1 entries 350, children 608890, fam ok 7700 fail 0, direct ok 601649 fail 0, updates 12962943032
+progress: level-1 entries 400, children 701300, fam ok 8800 fail 0, direct ok 693025 fail 0, updates 15155243584
+progress: level-1 entries 450, children 769030, fam ok 9900 fail 0, direct ok 759741 fail 0, updates 16609695960
+progress: level-1 entries 500, children 834821, fam ok 11000 fail 0, direct ok 824482 fail 0, updates 18072850952
+progress: level-1 entries 550, children 927119, fam ok 12100 fail 0, direct ok 915734 fail 0, updates 20094405240
+progress: level-1 entries 600, children 1012432, fam ok 13200 fail 0, direct ok 1000001 fail 0, updates 22022711048
+progress: level-1 entries 650, children 1117726, fam ok 14300 fail 0, direct ok 1104261 fail 0, updates 25070781008
+progress: level-1 entries 700, children 1201992, fam ok 15400 fail 0, direct ok 1187509 fail 0, updates 26695048328
+progress: level-1 entries 750, children 1290858, fam ok 16500 fail 0, direct ok 1275337 fail 0, updates 28514790616
+progress: level-1 entries 800, children 1395284, fam ok 17600 fail 0, direct ok 1378721 fail 0, updates 32229172768
+progress: level-1 entries 850, children 1507980, fam ok 18700 fail 0, direct ok 1490379 fail 0, updates 36622675752
+progress: level-1 entries 900, children 1610561, fam ok 19800 fail 0, direct ok 1591930 fail 0, updates 40173415360
+progress: level-1 entries 950, children 1724608, fam ok 20900 fail 0, direct ok 1704927 fail 0, updates 44681638664
+progress: level-1 entries 1000, children 1826310, fam ok 22000 fail 0, direct ok 1805579 fail 0, updates 48462989640
+progress: level-1 entries 1050, children 1926348, fam ok 23100 fail 0, direct ok 1904583 fail 0, updates 51450956648
+progress: level-1 entries 1100, children 2045807, fam ok 24200 fail 0, direct ok 2023048 fail 0, updates 55841493656
+progress: level-1 entries 1150, children 2141749, fam ok 25300 fail 0, direct ok 2117964 fail 0, updates 58927880440
+progress: level-1 entries 1200, children 2234950, fam ok 26400 fail 0, direct ok 2210115 fail 0, updates 61779332368
+LEVEL2 shard 0/2: level-1 entries 1216, children 2272248; families ok=26752 fail=0; concrete ok=2247077 fail=0; slabs=364; xval=53504 bad=0; updates=63260094040
+  corridors with 1 transits: 25536
+  corridors with 2 transits: 1163
+  corridors with 3 transits: 51
+  corridors with 4 transits: 2

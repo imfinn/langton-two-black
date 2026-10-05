@@ -1,0 +1,3 @@
+level 1: 2432 concrete single-cell configurations, 22 one-parameter families
+EXTEND blank+tail: 22 split families
+COVERTEST: members tested 3092, new cells checked 6751301, uncovered 0, multiply covered 0

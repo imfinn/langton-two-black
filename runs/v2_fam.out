@@ -1,0 +1,9 @@
+level 1: 2432 concrete single-cell configurations, 22 one-parameter families
+EXTEND blank+tail: 22 split families
+LEVEL2 shard 0/1: level-1 entries 22, children 45958; families ok=46552 fail=0; concrete ok=32057 fail=0; slabs=32628; xval=94116 bad=0; updates=8709409488
+  corridors with 1 transits: 37348
+  corridors with 2 transits: 7817
+  corridors with 3 transits: 1859
+  corridors with 4 transits: 33
+  corridors with 5 transits: 1
+famdone
