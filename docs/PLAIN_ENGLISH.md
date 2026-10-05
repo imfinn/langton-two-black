@@ -16,7 +16,7 @@ Imagine the ant traveling along a repeating highway between two regions it has a
 
 The corridor lemma answers that question. Each relevant crossing includes the extra piece. The journey before and after the crossing still matches the original journey in the required regions, with a shift in position and a delay in time. The proof checks the cell colors as well as the ant's route, because a different color would change its next turn.
 
-The next step is showing that the same conditions hold after the extension. The argument can then be repeated for every longer corridor. It also accounts for journeys back and forth and for two corridors that run parallel or meet at right angles.
+The next step is showing that the same conditions hold after the extension. The argument can then be repeated for every longer corridor. It also accounts for journeys back and forth and for two corridors that run parallel or at right angles to one another.
 
 ## Find every place the second cell can matter
 
