@@ -55,6 +55,8 @@ Jillhewar's current public repository goes beyond the July preprint in its claim
 
 ## Publication recommendations
 
+These recommendations are incorporated in the [revised manuscript](../paper/TWO_BLACK_CELLS_REVISED.md); the [revision notes](../paper/REVISION_NOTES.md) identify the changes. The original manuscript remains available for comparison.
+
 1. Center the abstract on the unbounded theorem and the proof that finite checks cover infinitely many placements. Keep the historical operation count as computational context.
 2. Retain the observation-based statement and separately label standard turn-word identification. A formal word-identification corollary would strengthen the public claim.
 3. State the required one-/two-corridor formalization scope and compiled-computation trust consistently. Keep broader corridor statements and the three-cell outlook separate.

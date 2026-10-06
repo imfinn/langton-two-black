@@ -1,5 +1,7 @@
 # Substantive comparison of manuscript sections 9 and 10
 
+**Incorporated in revision 5.** The [revised manuscript](../paper/TWO_BLACK_CELLS_REVISED.md) now incorporates these corrections; [revision notes](../paper/REVISION_NOTES.md) map them to the updated sections. The line numbers and assessments below remain a comparison with the preserved original revision 4.
+
 Line numbers refer to the supplied `TWO_BLACK_CELLS (2).md`, which is byte-identical to `paper/TWO_BLACK_CELLS.md`. This review covers every substantive paragraph, table row and bullet in sections 9–10; headings, blank lines and table delimiters contain no additional claims. Where a line has several claims, separate rows distinguish them. Fresh execution results are recorded in `AUDIT.md` and `audit/2026-10-05/`; a supplied log is never treated as a successful rerun.
 
 ## Recommended corrections
