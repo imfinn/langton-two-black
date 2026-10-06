@@ -13,7 +13,7 @@ theorem TwoBlack.theoremA :
   ∀ s, AtMostTwoBlack s → ReachesP104 s
 ```
 
-[Read the paper](paper/TWO_BLACK_CELLS.md) · [How the proof works](docs/PLAIN_ENGLISH.md) · [Research context](docs/LITERATURE_REVIEW.md)
+[Read the paper](paper/TWO_BLACK_CELLS_REVISED.md) · [How the proof works](docs/PLAIN_ENGLISH.md) · [Research context](docs/LITERATURE_REVIEW.md)
 
 ![Three Langton-ant simulations beginning with two black cells at different positions, followed by close-ups of their translating highway cycles.](docs/assets/two-black.gif)
 
@@ -64,12 +64,14 @@ The proof uses **Lean 4.30.0 with no external Lean packages**. All required proo
 
 | Read | What you will find |
 |---|---|
-| [Paper](paper/TWO_BLACK_CELLS.md) | The original manuscript and mathematical development |
+| [Paper](paper/TWO_BLACK_CELLS_REVISED.md) | The revised manuscript, incorporating the audit and literature review |
 | [How the proof works](docs/PLAIN_ENGLISH.md) | An accessible explanation of the main ideas |
 | [Research context](docs/LITERATURE_REVIEW.md) | Earlier results, the contribution here, and questions still open |
 | [Formal proof](lean/TwoBlack/Main.lean) and [proof map](docs/PROOF_MAP.md) | The Lean theorem and the arguments it depends on |
 | [Verification report](AUDIT.md) and [trust explanation](TRUST.md) | What was checked and the assumptions needed to accept the result |
-| [Manuscript review](docs/MANUSCRIPT_REVIEW.md) | Recommended clarifications to the original paper |
+| [Manuscript review](docs/MANUSCRIPT_REVIEW.md) | Comparison with the original manuscript and the corrections now incorporated |
 | [Reproduction instructions](REPRODUCIBILITY.md) | Build commands, data generators, tests, and recorded evidence |
+
+[Original manuscript](paper/TWO_BLACK_CELLS.md) · [Manuscript revision notes](paper/REVISION_NOTES.md)
 
 [Acknowledgements and references](ACKNOWLEDGEMENTS.md) · [Source provenance and licensing](PROVENANCE.md)

@@ -9,10 +9,11 @@ This repository preserves the supplied `langton_two_black_lean.zip` and accompan
 
 All 89 original Lean files, the toolchain/configuration, and the manuscript are preserved byte-for-byte. The original README files are retained under `docs/ORIGINAL_README.md` and `docs/ORIGINAL_LEAN_README.md`. Generator/portability repairs are itemized in [AUDIT.md](AUDIT.md).
 
-The independent audit, literature assessment, documentation, validation helpers, and illustrative animation were prepared in the accompanying Codex-assisted audit and publication session. They are separate from the original proof and manuscript. The original artifact did not supply author metadata or an explicit license. Publication under the repository owner's account does not establish authorship of the proof or add a license grant.
+The [revised manuscript (revision 5)](paper/TWO_BLACK_CELLS_REVISED.md), independent audit, literature assessment, documentation, validation helpers, and illustrative animation were prepared in the accompanying Codex-assisted audit and publication session. They are separate from the original proof and manuscript. The revised manuscript incorporates the audit and literature corrections without changing any Lean source or check data; its [revision notes](paper/REVISION_NOTES.md) explain the differences. The original artifact did not supply author metadata or an explicit license. Publication under the repository owner's account does not establish authorship of the proof or add a license grant.
 
 ## Evidence labels
 
+- `paper/TWO_BLACK_CELLS.md` is the original revision 4; `paper/TWO_BLACK_CELLS_REVISED.md` is the corrected reading copy.
 - `audit/2026-10-05/` contains fresh results produced by the independent audit.
 - `runs/` contains supplied historical records and raw inputs for regeneration.
 - `docs/assets/` contains finite illustrative simulations generated for the README.
